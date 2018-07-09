@@ -1,0 +1,25 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 0.39002084732055664
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: So
+    lang: en
+  - name: gesture
+    start_time: 0
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: speech
+    start_time: 1.9
+    duration: 2.5235209465026855
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Singularity Net is a software framework
+    lang: en

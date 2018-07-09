@@ -1,0 +1,25 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.3077917098999023
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Anyone who writes an
+    lang: en
+  - name: gesture
+    start_time: 0.5499999999999999
+    duration: 2.875
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L
+  - name: speech
+    start_time: 1.3099999999999998
+    duration: 3.1917290687561035
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: ey eye program can install eat into the singularity net
+    lang: en

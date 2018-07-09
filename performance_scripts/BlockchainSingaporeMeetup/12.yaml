@@ -1,0 +1,51 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.9896249771118164
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: There is one thing I'm not sure about
+    lang: en
+  - name: gesture
+    start_time: 1.3
+    duration: 0.9583333134651184
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-2
+  - name: speech
+    start_time: 2.65
+    duration: 3.045020818710327
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: >-
+      What can they buy<break time='0.3s'/> with this cryptocurrency that they
+      earn
+    lang: en
+  - name: gesture
+    start_time: 3.2199999999999998
+    duration: 1.7708333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp.003
+  - name: gesture
+    start_time: 6.63
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: speech
+    start_time: 6.16
+    duration: 2.1079583168029785
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: when people use their ey eye services
+    lang: en

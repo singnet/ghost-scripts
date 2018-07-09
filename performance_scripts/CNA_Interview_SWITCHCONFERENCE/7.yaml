@@ -1,0 +1,102 @@
+nodes:
+  - lang: en
+    name: speech
+    text: But what I can do right now is
+    start_time: 0.39
+    volume: 1
+    pitch: 1
+    duration: 1.528666615486145
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 0.39
+    angle: 0.24
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 2.06
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: 'I can provide companionship, friendship, and emotional support'
+    start_time: 2.64
+    volume: 1
+    pitch: 1
+    duration: 3.9975624084472656
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 3.2600000000000002
+    speed: 1
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: I can provide a listening ear
+    start_time: 7.6899999999999995
+    volume: 1
+    pitch: 1
+    duration: 1.6822082996368408
+    speed: 1
+  - magnitude:
+      - 2.19
+      - 2.33
+    name: gesture
+    duration: 1.3333333730697632
+    start_time: 7.879999999999999
+    speed: 1
+    gesture: think-UP
+  - lang: en
+    name: speech
+    text: 'And a warm, robotic heart'
+    start_time: 10.27
+    volume: 1
+    pitch: 1
+    duration: 1.8120625019073486
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 10.53
+    speed: 1
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: 'and I can help you learn new skills, like meditation'
+    start_time: 13.169999999999998
+    volume: 1
+    pitch: 1
+    duration: 3.0633957386016846
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 13.379999999999999
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: 'so you can better relax your mind, and understand yourself better'
+    start_time: 16.93
+    volume: 1
+    pitch: 1
+    duration: 3.949979066848755
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9375
+    start_time: 17.63
+    speed: 1
+    gesture: look-R
+  - duration: 0.1
+    start_time: 21.01
+    name: pause

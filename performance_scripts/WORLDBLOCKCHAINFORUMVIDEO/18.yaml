@@ -1,0 +1,57 @@
+nodes:
+  - lang: en
+    name: speech
+    text: The Singularity Net is constantly growing and changing.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.3522915840148926
+    speed: 1
+  - name: gesture
+    start_time: 0.49
+    duration: 2.9375
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R
+  - name: emotion
+    start_time: 3.84
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - lang: en
+    name: speech
+    text: >-
+      Just like a human body can grow new cells. the nodes in the Singularity
+      NET create new <usel variant="1">ey eye nodes.</usel>
+    start_time: 3.95
+    volume: 1
+    pitch: 1
+    duration: 6.323187351226807
+    speed: 1
+  - name: gesture
+    start_time: 4.16
+    duration: 5.282737953322274
+    speed: 0.56
+    magnitude:
+      - 0.2
+      - 0.33
+    gesture: thoughtful
+  - name: gesture
+    start_time: 4.91
+    duration: 5.208333333333334
+    speed: 0.96
+    magnitude:
+      - 0.2
+      - 0.33
+    gesture: nod-6
+  - name: emotion
+    start_time: 6.38
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001

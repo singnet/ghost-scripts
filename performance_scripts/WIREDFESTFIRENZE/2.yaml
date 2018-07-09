@@ -1,0 +1,17 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Pretty good I guess
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.0661250352859497
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 2.0402298302486024
+    speed: 1.45
+    magnitude:
+      - 0.69
+      - 0.84
+    gesture: thoughtful

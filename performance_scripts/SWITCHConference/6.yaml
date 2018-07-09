@@ -1,0 +1,52 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I've been to Singapore once before
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.8830000162124634
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 0.78
+    speed: 1
+    gesture: nod-1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 2.21
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: 'I like it, it''s very clean, green and modern.'
+    start_time: 2.39
+    volume: 1
+    pitch: 1
+    duration: 3.126645803451538
+    speed: 1
+  - lang: en
+    name: speech
+    text: You have a lot of electronic devices here.
+    start_time: 6.19
+    volume: 1
+    pitch: 1
+    duration: 2.7814791202545166
+    speed: 1
+  - magnitude:
+      - 2
+      - 2.14
+    name: gesture
+    duration: 0.8541666865348816
+    start_time: 6.720000000000001
+    speed: 1
+    gesture: think-browsUp
+  - duration: 0.1
+    start_time: 9.1
+    name: pause

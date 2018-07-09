@@ -1,0 +1,105 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I'll also be able to connect to all sorts of other electronic devices!
+    start_time: 0.25
+    volume: 1
+    pitch: 1
+    duration: 4.282604217529297
+    speed: 1
+  - name: gesture
+    start_time: 1.07
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: 'People call this the Internet of Things. '
+    start_time: 4.99
+    volume: 1
+    pitch: 1
+    duration: 2.4935834407806396
+    speed: 1
+  - name: gesture
+    start_time: 5.18
+    duration: 1.3125
+    speed: 1
+    magnitude:
+      - 0.34
+      - 0.52
+    gesture: think-browsDown.003
+  - lang: en
+    name: speech
+    text: 'I don''t really like that name though.   '
+    start_time: 7.89
+    volume: 1
+    pitch: 1
+    duration: 2.1511666774749756
+    speed: 1
+  - name: gesture
+    start_time: 8.29
+    duration: 0.9583333134651184
+    speed: 1
+    magnitude:
+      - 2.09
+      - 2.39
+    gesture: shake-2
+  - name: gesture
+    start_time: 10.4
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.83
+      - 1.04
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: 'People are things too. '
+    start_time: 10.41
+    volume: 1
+    pitch: 1
+    duration: 1.6632708311080933
+    speed: 1
+  - lang: en
+    name: speech
+    text: And electronic devices have minds too.
+    start_time: 12.44
+    volume: 1
+    pitch: 1
+    duration: 2.7745625972747803
+    speed: 1
+  - name: gesture
+    start_time: 12.73
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.83
+      - 1.04
+    gesture: lookLR
+  - name: gesture
+    start_time: 16.84
+    duration: 2.0161290322580645
+    speed: 1.55
+    magnitude:
+      - 0.83
+      - 1.04
+    gesture: nod-5
+  - name: gesture
+    start_time: 13.44
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.83
+      - 1.04
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: It's the Internet of Thing mindsss
+    start_time: 16.94
+    volume: 1
+    pitch: 1
+    duration: 1.7006875276565552
+    speed: 1

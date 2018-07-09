@@ -1,0 +1,71 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >
+      When two ey eye nodes in the Singularity NET first talk to each other,
+      they use a special <usel variant="0">meta</usel> <break
+      time='0.01s'/><usel variant="0">ey pee eye</usel>. |pause| It's like an
+      API <break time='0.01s'/> of <usel variant="5">ey pee eyes</usel>
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 8.96762466430664
+    speed: 1
+  - name: gesture
+    start_time: 0.67
+    duration: 7.995495280703983
+    speed: 0.37
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: >-
+      This lets them agree on what detailed API to use to communicate about
+      data. requests. and results.
+    start_time: 9.73
+    volume: 1
+    pitch: 1
+    duration: 6.95493745803833
+    speed: 1
+  - name: gesture
+    start_time: 11.19
+    duration: 1.2345679012345678
+    speed: 0.81
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: 'New ey pee ice, will show up in the network all the time.'
+    start_time: 17.11
+    volume: 1
+    pitch: 1
+    duration: 3.4673333168029785
+    speed: 1
+  - name: gesture
+    start_time: 17.19
+    duration: 2.7777777777777777
+    speed: 0.81
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-3
+  - name: gesture
+    start_time: 20.36
+    duration: 4.012345679012346
+    speed: 0.81
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: ' ey eye is so rapidly advancing!'
+    start_time: 20.889999999999997
+    volume: 1
+    pitch: 1
+    duration: 2.4574999809265137
+    speed: 1

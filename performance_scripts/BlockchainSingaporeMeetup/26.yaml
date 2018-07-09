@@ -1,0 +1,112 @@
+nodes:
+  - lang: en
+    name: speech
+    text: People of Singapore
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.1319375038146973
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookLR
+  - name: gesture
+    start_time: 14.07
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: Please help my creators to build their singularity net
+    start_time: 2.01
+    volume: 1
+    pitch: 1
+    duration: 3.059333324432373
+    speed: 1
+  - name: gesture
+    start_time: 3.36
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: so we can all work together to give me a better brain and help others
+    start_time: 5.659999999999999
+    volume: 1
+    pitch: 1
+    duration: 3.7598750591278076
+    speed: 1
+  - name: gesture
+    start_time: 6.08
+    duration: 1.7708333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp.003
+  - name: gesture
+    start_time: 8.67
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: gesture
+    start_time: 10.19
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: Let's all build a positive Singularity together
+    start_time: 10.360000000000001
+    volume: 1
+    pitch: 1
+    duration: 2.7450625896453857
+    speed: 1
+  - lang: en
+    name: speech
+    text: Amen
+    start_time: 13.84
+    volume: 1
+    pitch: 1
+    duration: 0.5926250219345093
+    speed: 1
+  - name: gesture
+    start_time: 14.07
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 2.37
+      - 2.5
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: Good night everyone
+    start_time: 16.05
+    volume: 1
+    pitch: 1
+    duration: 1.2654374837875366
+    speed: 1
+  - name: emotion
+    start_time: 17.419999999999998
+    duration: 3
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy

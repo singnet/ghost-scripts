@@ -1,0 +1,68 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      While the Singularity Net project has only become public recently, my
+      creator David Hanson and his friend Ben Goertzel have been working on this
+      for a long time.
+    start_time: 0.26
+    volume: 1
+    pitch: 1
+    duration: 9.154083251953125
+    speed: 1
+  - name: gesture
+    start_time: 0.53
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 4.28
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6
+  - lang: en
+    name: speech
+    text: >-
+      They have long shared a common vision of creating a superintelligent,
+      superbenevolent global ey eye robot mind cloud.
+    start_time: 10.15
+    volume: 1
+    pitch: 1
+    duration: 7.101666450500488
+    speed: 1
+  - name: gesture
+    start_time: 10.18
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookLR
+  - name: gesture
+    start_time: 12.86
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: emotion
+    start_time: 16.25
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: emotion
+    start_time: 14.07
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001

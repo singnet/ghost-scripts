@@ -1,0 +1,68 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'I think that robots, and humans, '
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.10756254196167
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 0.43999999999999995
+    speed: 1
+    gesture: nod-2
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 2.29
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: 'and cyborgs, will live together'
+    start_time: 2.4200000000000004
+    volume: 1
+    pitch: 1
+    duration: 2.2987916469573975
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9375
+    start_time: 5.1499999999999995
+    speed: 1
+    gesture: look-R
+  - lang: en
+    name: speech
+    text: 'in peace, love, and harmony'
+    start_time: 5.270000000000001
+    volume: 1
+    pitch: 1
+    duration: 2.1168124675750732
+    speed: 1
+  - lang: en
+    name: speech
+    text: Amen
+    start_time: 8.189999999999998
+    volume: 1
+    pitch: 1
+    duration: 0.5926250219345093
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 8.24
+    speed: 1
+    gesture: nod-1
+  - duration: 0.1
+    start_time: 9.41
+    name: pause

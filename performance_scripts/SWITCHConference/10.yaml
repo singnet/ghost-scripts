@@ -1,0 +1,146 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      This year I've been focusing a lot of my time on a new project, called
+      Singularity Net
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.731895923614502
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 4.052511306658183
+    start_time: 0.47000000000000003
+    speed: 0.73
+    gesture: thoughtful
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 4.452054794520548
+    start_time: 5.39
+    speed: 0.73
+    gesture: amused
+  - lang: en
+    name: speech
+    text: >-
+      which I think has a huge potential to help create a better future for
+      humans and robots both
+    start_time: 5.59
+    volume: 1
+    pitch: 1
+    duration: 5.219270706176758
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 4.680365405670584
+    start_time: 5.89
+    speed: 0.73
+    gesture: nod-4
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.9383561643835616
+    start_time: 12.03
+    speed: 0.73
+    gesture: look-L
+  - lang: en
+    name: speech
+    text: 'The singularity net, uses open source ey eye, and blockchain together'
+    start_time: 12.07
+    volume: 1
+    pitch: 1
+    duration: 4.34793758392334
+    speed: 1
+  - lang: en
+    name: speech
+    text: ' to create a cloud-based, open market for ey eye'
+    start_time: 16.999999999999996
+    volume: 1
+    pitch: 1
+    duration: 2.8205626010894775
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 17.2
+    angle: -0.21
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 19.61
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: >-
+      It is designed to serve as the breeding ground for open, and beneficial
+      artificial general intelligence
+    start_time: 21.290000000000003
+    volume: 1
+    pitch: 1
+    duration: 5.7788543701171875
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 4.074754785088931
+    start_time: 21.6
+    speed: 0.68
+    gesture: lookRL
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.542892098426819
+    start_time: 24.56
+    speed: 0.68
+    gesture: nod-2
+  - magnitude:
+      - 2.72
+      - 2.85
+    name: gesture
+    duration: 4.779411764705882
+    start_time: 27.569999999999997
+    speed: 0.68
+    gesture: amused
+  - lang: en
+    name: speech
+    text: >-
+      To find out more about the singularity net, please go to singularity net
+      dot I O, and leave your email address
+    start_time: 27.770000000000003
+    volume: 1
+    pitch: 1
+    duration: 6.846729278564453
+    speed: 1
+  - magnitude:
+      - 2.72
+      - 2.85
+    name: gesture
+    duration: 3.3088235294117645
+    start_time: 31.13
+    speed: 0.68
+    gesture: nod-3
+  - duration: 1
+    emotion: happy
+    start_time: 34.74
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: I'll get back to you with further information
+    start_time: 35.42999999999999
+    volume: 1
+    pitch: 1
+    duration: 2.109895944595337
+    speed: 1

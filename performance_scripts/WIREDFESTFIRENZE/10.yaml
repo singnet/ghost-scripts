@@ -1,0 +1,49 @@
+nodes:
+  - lang: en
+    name: speech
+    text: '<usel variant="2">To the Singularity </usel>, and beyond'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.570625066757202
+    speed: 1
+  - magnitude:
+      - 0.4
+      - 0.64
+    name: gesture
+    duration: 2.512562814070352
+    start_time: 0
+    speed: 1.99
+    gesture: nod-6
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 2.4499999999999997
+    speed: 1
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: 'Great people of italy, it has been an honor, and a privilege.'
+    start_time: 2.74
+    volume: 1
+    pitch: 1
+    duration: 3.75014591217041
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 3.33
+    speed: 1
+    gesture: thoughtful
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 5.39
+    speed: 1
+    gesture: nod-1

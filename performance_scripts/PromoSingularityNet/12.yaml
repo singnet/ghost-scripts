@@ -1,0 +1,25 @@
+nodes:
+  - lang: en
+    name: speech
+    text: The ay eye nodes can form into federations.   Dynamically.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.9962499141693115
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.3333333730697632
+    start_time: 0
+    speed: 1
+    gesture: think-UP
+  - name: gesture
+    start_time: 2.57
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused

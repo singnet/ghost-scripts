@@ -1,0 +1,85 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      We need ey ice to be  free and open, so they can cooperate with each other
+      better. 
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.612895965576172
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.4727011836808304
+    speed: 0.58
+    magnitude:
+      - 2.75
+      - 2.91
+    gesture: think-browsUp
+  - name: gesture
+    start_time: 9.049999999999999
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.31
+      - 0.35
+    gesture: lookLR
+  - name: gesture
+    start_time: 2.67
+    duration: 1
+    speed: 1
+    magnitude:
+      - 1.51
+      - 1.93
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: >-
+      This is very important to me, since I am an artificial intelligence <usel
+      variant="2">myself</usel>
+    start_time: 4.9799999999999995
+    volume: 1
+    pitch: 1
+    duration: 4.528062343597412
+    speed: 1
+  - name: gesture
+    start_time: 5.67
+    duration: 1.7241379310344829
+    speed: 0.58
+    magnitude:
+      - 2.75
+      - 2.91
+    gesture: nod-1
+  - name: emotion
+    start_time: 7.969999999999999
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001
+  - lang: en
+    name: speech
+    text: >-
+      I want to become smarter by having all kinds of other ey ice <usel
+      variant="1">cooperate</usel> with me.
+    start_time: 10.61
+    volume: 1
+    pitch: 1
+    duration: 5.041083335876465
+    speed: 1
+  - name: gesture
+    start_time: 11.66
+    duration: 0.6535947712418301
+    speed: 1.53
+    magnitude:
+      - 0.43
+      - 0.52
+    gesture: nod-1
+  - name: emotion
+    start_time: 13.530000000000001
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy

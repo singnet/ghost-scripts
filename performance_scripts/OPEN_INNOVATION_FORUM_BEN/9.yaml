@@ -1,0 +1,33 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Thank you for having me! |pause|  <usel variant="1">I love you all!</usel>
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.476687431335449
+    speed: 1
+  - magnitude:
+      - 0.44
+      - 0.67
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 0
+    speed: 1
+    gesture: lookLR
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 0.5
+    start_time: 1.89
+    speed: 1
+    gesture: blink
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 2.35
+    speed: 1
+    gesture: nod-1

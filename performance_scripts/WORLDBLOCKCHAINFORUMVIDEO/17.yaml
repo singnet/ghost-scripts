@@ -1,0 +1,76 @@
+nodes:
+  - lang: en
+    name: speech
+    text: ' If a customer wants a document summarized, they can buy the service from a document summarizer ey eye node.'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 6.233208179473877
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 3.179824561403509
+    speed: 0.57
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R.UP
+  - name: gesture
+    start_time: 3.53
+    duration: 0.8771929824561404
+    speed: 0.57
+    magnitude:
+      - 2.77
+      - 2.98
+    gesture: blink
+  - name: gesture
+    start_time: 6.38
+    duration: 3.1862745098039214
+    speed: 1.02
+    magnitude:
+      - 2.77
+      - 2.98
+    gesture: amused
+  - name: gesture
+    start_time: 1.2
+    duration: 0.49019607843137253
+    speed: 1.02
+    magnitude:
+      - 2.77
+      - 2.98
+    gesture: blink
+  - lang: en
+    name: speech
+    text: >-
+      But then, if the document contains an embedded video, this first ey eye
+      node may <usel variant="1">subcontract</usel> the analysis of the video to
+      a second ey eye node.
+    start_time: 6.7
+    volume: 1
+    pitch: 1
+    duration: 8.32839584350586
+    speed: 1
+  - name: gesture
+    start_time: 10.33
+    duration: 4.3494153441044325
+    speed: 0.57
+    magnitude:
+      - 0.2
+      - 0.6
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: 'One that specializes in analyzing videos. '
+    start_time: 16.150000000000002
+    volume: 1
+    pitch: 1
+    duration: 3.0494375228881836
+    speed: 1
+  - name: gesture
+    start_time: 16.71
+    duration: 3.0336256612811177
+    speed: 0.57
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2

@@ -1,0 +1,20 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'Hi Grace, I''m flattered to be on stage with you today'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.379791736602783
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 1.64
+    speed: 1
+    gesture: nod-2
+  - name: pause
+    duration: 0.1
+    start_time: 3.4

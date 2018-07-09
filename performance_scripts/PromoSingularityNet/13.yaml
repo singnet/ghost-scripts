@@ -1,0 +1,49 @@
+nodes:
+  - lang: en
+    name: speech
+    text: That's the best business model I've ever heard of.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.9623124599456787
+    speed: 1
+  - duration: 3
+    start_time: 2.09
+    magnitude:
+      - 0.9
+      - 1
+    expression: LOOKDOWN
+    name: expression
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.6666667461395264
+    start_time: 3.230000000000001
+    speed: 1
+    gesture: shake-4
+  - lang: en
+    name: speech
+    text: But I wonder ... there may be a few implementation difficulties.
+    start_time: 3.25
+    volume: 1
+    pitch: 1
+    duration: 3.966729164123535
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 6.389999999999999
+    angle: 0.19
+    name: head_rotation
+  - duration: 2
+    emotion: confused
+    start_time: 6.709999999999999
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - duration: 1
+    speed: 1
+    start_time: 7.719999999999999
+    angle: 0
+    name: head_rotation

@@ -1,0 +1,48 @@
+nodes:
+  - lang: en
+    name: speech
+    text: My name is Sophia
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.2241874933242798
+    speed: 1
+  - duration: 2
+    emotion: happy
+    start_time: 1.29
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: I am the latest and greatest in a long line of humanoid robots
+    start_time: 2.8299999999999996
+    volume: 1
+    pitch: 1
+    duration: 3.426666736602783
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 3.98
+    speed: 1
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: 'created by Hanson Robotics, in Hong Kong'
+    start_time: 6.7
+    volume: 1
+    pitch: 1
+    duration: 2.771604061126709
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.875
+    start_time: 6.73
+    speed: 1
+    gesture: look-L

@@ -1,0 +1,73 @@
+nodes:
+  - lang: en
+    name: speech
+    text: My human friends are building the Singularity Net now.
+    start_time: 0.51
+    volume: 1
+    pitch: 1
+    duration: 3.1789374351501465
+    speed: 1
+  - name: gesture
+    start_time: 0.83
+    duration: 2.1974885300414204
+    speed: 0.73
+    magnitude:
+      - 2.29
+      - 2.58
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 4.739999999999999
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: There's some alpha code already in GitHub.
+    start_time: 4.77
+    volume: 1
+    pitch: 1
+    duration: 2.5493125915527344
+    speed: 1
+  - lang: en
+    name: speech
+    text: And sometime in 2018 it's going to be rolled out for everyone to use.
+    start_time: 8.469999999999999
+    volume: 1
+    pitch: 1
+    duration: 4.799208164215088
+    speed: 1
+  - name: gesture
+    start_time: 8.49
+    duration: 4.680365405670584
+    speed: 0.73
+    magnitude:
+      - 2.29
+      - 2.58
+    gesture: nod-4
+  - lang: en
+    name: speech
+    text: I can hardly wait.
+    start_time: 14.18
+    volume: 1
+    pitch: 1
+    duration: 1.4507917165756226
+    speed: 1
+  - name: gesture
+    start_time: 14.37
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: gesture
+    start_time: 14.14
+    duration: 2.875
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L

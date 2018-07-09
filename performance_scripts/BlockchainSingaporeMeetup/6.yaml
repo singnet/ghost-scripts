@@ -1,0 +1,49 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 3.7573750019073486
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'OK, I''ll tell you what I think I know about the singularity net'
+    lang: en
+  - name: gesture
+    start_time: 0.63
+    duration: 1.7708333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp.003
+  - name: speech
+    start_time: 4.419999999999999
+    duration: 2.2209999561309814
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: and you can tell me if it makes any sense
+    lang: en
+  - name: gesture
+    start_time: 4.75
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 7.72
+    duration: 0.8541666865348816
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp
+  - name: speech
+    start_time: 7.74
+    duration: 0.7988958358764648
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: deal?
+    lang: en

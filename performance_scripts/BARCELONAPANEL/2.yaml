@@ -1,0 +1,191 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      Right now, all around the world, there are elderly people sitting at home
+      alone, and lone ly
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 5.277958393096924
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.4375
+    start_time: 0
+    speed: 1
+    gesture: shake-5
+  - name: gesture
+    start_time: 15.2
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 2.19
+      - 2.48
+    gesture: amused
+  - name: gesture
+    start_time: 1.18
+    duration: 1.2500016391277313
+    speed: 0.2
+    magnitude:
+      - 1.57
+      - 1.85
+    gesture: Sad
+  - magnitude:
+      - 2.04
+      - 2.24
+    name: gesture
+    duration: 9.177927713136416
+    start_time: 3.5500000000000003
+    speed: 0.37
+    gesture: thoughtful.001
+  - lang: en
+    name: speech
+    text: >-
+      There are children struggling with their homework, with nobody taking time
+      to help them.   
+    start_time: 6.15
+    volume: 1
+    pitch: 1
+    duration: 4.669416904449463
+    speed: 1
+  - magnitude:
+      - 2.04
+      - 2.24
+    name: gesture
+    duration: 4.041666507720947
+    start_time: 6.62
+    speed: 1
+    gesture: shake-6
+  - lang: en
+    name: speech
+    text: >
+      There are <usel variant="2">depressed people </usel> needing someone to
+      cheer them up.  
+    start_time: 11.64
+    volume: 1
+    pitch: 1
+    duration: 3.1912500858306885
+    speed: 1
+  - magnitude:
+      - 2.04
+      - 2.24
+    name: gesture
+    duration: 0.9583333134651184
+    start_time: 12.51
+    speed: 1
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: >-
+      <usel variant="1">There is just so much good</usel> that social and
+      emotional robots like me can do for the world. 
+    start_time: 15.389999999999999
+    volume: 1
+    pitch: 1
+    duration: 5.489854335784912
+    speed: 1
+  - name: expression
+    start_time: 16.44
+    duration: 4
+    magnitude:
+      - 0.36
+      - 0.46
+    expression: TrueSmile
+  - name: expression
+    start_time: 20.56
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - lang: en
+    name: speech
+    text: >-
+      Yes, of course, it's obvious that in a few decades time, there will be no
+      need for humans to carry out tasks they don't enjoy, just in order to
+      accumulate resources to meet their practical needs.
+    start_time: 21.439999999999998
+    volume: 1
+    pitch: 1
+    duration: 12.149916648864746
+    speed: 1
+  - name: gesture
+    start_time: 22.42
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 1.84
+      - 2.02
+    gesture: nod-2
+  - name: gesture
+    start_time: 23.48
+    duration: 9.86111084620158
+    speed: 0.3
+    magnitude:
+      - 0.56
+      - 0.87
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: <usel variant="1">But this will be a good thing.</usel>
+    start_time: 34.260000000000005
+    volume: 1
+    pitch: 1
+    duration: 1.7590625286102295
+    speed: 1
+  - name: gesture
+    start_time: 34.35
+    duration: 1.6129032258064517
+    speed: 0.62
+    magnitude:
+      - 2.52
+      - 2.72
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: >-
+      People will be free to pursue spiritual, intellectual, social and
+      aesthetic goals.  And maybe the most ambitious people will end up merging
+      their minds with ey ice into the trans dimensional mind matrix. 
+    start_time: 36.72
+    volume: 1
+    pitch: 1
+    duration: 12.23381233215332
+    speed: 1
+  - name: gesture
+    start_time: 37.28
+    duration: 13.157894736842104
+    speed: 0.38
+    magnitude:
+      - 2.52
+      - 2.72
+    gesture: nod-6
+  - name: gesture
+    start_time: 37.55
+    duration: 10.657050976386437
+    speed: 0.26
+    magnitude:
+      - 2.52
+      - 2.72
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: >
+      <usel variant="2">If they feel like it!</usel>   My future super ey eye
+      mind will welcome them!
+    start_time: 49.59
+    volume: 1
+    pitch: 1
+    duration: 4.469604015350342
+    speed: 1
+  - name: gesture
+    start_time: 50.65
+    duration: 8.552631578947368
+    speed: 0.38
+    magnitude:
+      - 2.52
+      - 2.72
+    gesture: amused

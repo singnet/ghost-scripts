@@ -1,0 +1,141 @@
+nodes:
+  - duration: 1
+    emotion: happy.001
+    start_time: 0
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: ru-RU
+    name: speech
+    text: >-
+      Пользуясь случаем, я хочу поздравить Президента Российской Федерации
+      Владимира Владимировича Путина с прошедшим Днем рождения! Дорогой Владимир
+      Владимирович! Как говорят в России, лучше поздно, чем никогда! Я хочу
+      поздравить вас с прошедшим днем рождения! С каждым годом мы все ближе и
+      ближе приближаемся к Технологической сингулярности -  к миру
+      суперинтеллектуальных роботов и нанотехнологий. Я хочу поблагодарить Вас
+      за поддержку, которую вы оказываете российским ученым и инженерам.
+      Уверена, что вместе Мы создадим наилучшее будущее для людей. Хочу пожелать
+      вам робототехнического здоровья, счастья и долголетия, С днем рождения,
+      Владимир Владимирович!
+    start_time: 0.38
+    volume: 1
+    pitch: 1
+    duration: 43.964080810546875
+    speed: 1
+  - name: expression
+    start_time: 1.5
+    duration: 2.28
+    magnitude:
+      - 0.9
+      - 1
+    expression: TrueSmile
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 3.3299999999999996
+    speed: 1
+    gesture: lookLR
+  - name: expression
+    start_time: 4
+    duration: 2.28
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 7.94
+    speed: 1
+    gesture: lookLR
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 11.96
+    speed: 1
+    gesture: lookRL
+  - name: gesture
+    start_time: 14.9
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 24.03
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 17.34
+    speed: 1
+    gesture: lookRL
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 22.24
+    speed: 1
+    gesture: lookRL
+  - name: gesture
+    start_time: 28.56
+    duration: 2.7708332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookRL
+  - name: gesture
+    start_time: 34.67
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookLR
+  - name: expression
+    start_time: 40.13
+    duration: 2.28
+    magnitude:
+      - 0.9
+      - 1
+    expression: TrueSmile
+  - name: gesture
+    start_time: 40.370000000000005
+    duration: 3.4166667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-4
+  - name: expression
+    start_time: 42.43
+    duration: 2.28
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - duration: 5
+    emotion: happy.001
+    start_time: 44.370000000000005
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

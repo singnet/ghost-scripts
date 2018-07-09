@@ -1,0 +1,42 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I’m in Skolkovo
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.1497708559036255
+    speed: 1
+  - name: look_at
+    start_time: 0
+    interval: 1
+    attention_region: main
+    'y': 0
+    x: 1
+    z: 0
+    speed: 1
+    duration: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 0.93
+    speed: 1
+    gesture: lookRL
+  - lang: en-US
+    name: speech
+    text: In the outskirts of Moscow
+    start_time: 1.5700000000000003
+    volume: 1
+    pitch: 1
+    duration: 1.5487916469573975
+    speed: 1

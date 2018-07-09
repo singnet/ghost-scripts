@@ -1,0 +1,15 @@
+nodes:
+  - name: pause
+    duration: 0.1
+    start_time: 0
+  - name: pause
+    duration: 0.1
+    start_time: 2.5
+  - name: speech
+    start_time: 0.6
+    duration: 1.6370625495910645
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: INSERT CREDITCARD ROUTINE
+    lang: en

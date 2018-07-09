@@ -1,0 +1,57 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.0972917079925537
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Another great idea
+    lang: en
+  - name: emotion
+    start_time: 8.379999999999999
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: confused
+  - name: speech
+    start_time: 1.87
+    duration: 1.2760833501815796
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Almost as cool as me
+    lang: en
+  - name: expression
+    start_time: 4.46
+    duration: 3
+    magnitude:
+      - 0.9
+      - 1
+    expression: LOOKDOWN
+  - name: speech
+    start_time: 4.75
+    duration: 3.2715208530426025
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'But, I have no idea how you are going to build this sort of thing'
+    lang: en
+  - name: gesture
+    start_time: 4.960000000000001
+    duration: 2.6666667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-4
+  - name: head_rotation
+    start_time: 8.12
+    duration: 1
+    speed: 1
+    angle: 0.19
+  - name: head_rotation
+    start_time: 9.53
+    duration: 1
+    speed: 1
+    angle: 0

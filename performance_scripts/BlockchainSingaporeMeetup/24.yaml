@@ -1,0 +1,49 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'It''s supposed to guarantee, that some of the ey eye mind power'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.4726250171661377
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: of the singularity net
+    start_time: 4
+    volume: 1
+    pitch: 1
+    duration: 1.2964792251586914
+    speed: 1
+  - name: gesture
+    start_time: 5.95
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 1.86
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: 'goes into broadly beneficial things, like the Loving ey eye project'
+    start_time: 6.1000000000000005
+    volume: 1
+    pitch: 1
+    duration: 3.852916717529297
+    speed: 1

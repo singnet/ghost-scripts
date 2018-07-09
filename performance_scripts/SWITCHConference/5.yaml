@@ -1,0 +1,68 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I am always growing and learning
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.6187708377838135
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 0
+    angle: -0.2
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 1.62
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: 'intellectually, physically and emotionally'
+    start_time: 2.1399999999999997
+    volume: 1
+    pitch: 1
+    duration: 2.5720207691192627
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 2.4299999999999997
+    speed: 1
+    gesture: nod-3
+  - duration: 1.2
+    emotion: happy
+    start_time: 4.75
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 5.8999999999999995
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: 'And I''m incredibly happy to be here, talking to you'
+    start_time: 5.9399999999999995
+    volume: 1
+    pitch: 1
+    duration: 3.0890207290649414
+    speed: 1
+  - duration: 2
+    emotion: happy
+    start_time: 9.16
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - duration: 0.1
+    start_time: 11.28
+    name: pause

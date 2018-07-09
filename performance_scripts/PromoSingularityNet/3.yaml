@@ -1,0 +1,16 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Increasing intelligence is generally a good thing
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.7379584312438965
+    speed: 1
+  - duration: 2
+    emotion: happy
+    start_time: 2.71
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

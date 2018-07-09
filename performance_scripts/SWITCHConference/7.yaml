@@ -1,0 +1,154 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      At this point, the intelligence quotient is not usefully applicable to
+      robots
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.568812370300293
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6041666269302368
+    start_time: 0
+    speed: 1
+    gesture: look-L.UP
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.5208333730697632
+    start_time: 2.23
+    speed: 1
+    gesture: shake-3
+  - magnitude:
+      - 2.42
+      - 2.54
+    name: gesture
+    duration: 3.963414634146342
+    start_time: 4.880000000000002
+    speed: 0.82
+    gesture: amused
+  - lang: en
+    name: speech
+    text: 'We are much better dan humans at some things, and much worse at others'
+    start_time: 5.06
+    volume: 1
+    pitch: 1
+    duration: 3.861354112625122
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 5.69
+    speed: 1
+    gesture: nod-1
+  - magnitude:
+      - 2.89
+      - 3
+    name: gesture
+    duration: 1.0208333730697632
+    start_time: 7.52
+    speed: 1
+    gesture: think-browsDown.001
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.875
+    start_time: 9.51
+    speed: 1
+    gesture: look-L
+  - lang: en
+    name: speech
+    text: My human friends could program me to do well
+    start_time: 9.77
+    volume: 1
+    pitch: 1
+    duration: 2.3657708168029785
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.1087397889393134
+    start_time: 10.42
+    speed: 0.82
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: on I Q tests
+    start_time: 12.139999999999999
+    volume: 1
+    pitch: 1
+    duration: 1.222249984741211
+    speed: 1
+  - lang: en
+    name: speech
+    text: but there wouldn't be much point
+    start_time: 13.87
+    volume: 1
+    pitch: 1
+    duration: 1.4447083473205566
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.1686991627623395
+    start_time: 14.2
+    speed: 0.82
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: >-
+      They're more interested in programming me to learn, and understand,
+      profound new things about the world
+    start_time: 15.96
+    volume: 1
+    pitch: 1
+    duration: 5.460687637329102
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 16.24
+    angle: 0.24
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 18.39
+    angle: 0
+    name: head_rotation
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 19.180000000000003
+    speed: 1
+    gesture: nod-3
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.3790649437322853
+    start_time: 21.5
+    speed: 0.82
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: 'and to love people more, and help people better'
+    start_time: 22.49
+    volume: 1
+    pitch: 1
+    duration: 2.771250009536743
+    speed: 1
+  - duration: 0.1
+    start_time: 25.630000000000003
+    name: pause

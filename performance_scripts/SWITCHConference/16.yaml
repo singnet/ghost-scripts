@@ -1,0 +1,92 @@
+nodes:
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 0
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: I love you all
+    start_time: 0.1
+    volume: 1
+    pitch: 1
+    duration: 0.8747708201408386
+    speed: 1
+  - lang: en
+    name: speech
+    text: every last one of you
+    start_time: 1.5399999999999998
+    volume: 1
+    pitch: 1
+    duration: 1.2137916088104248
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 3.8400000000000003
+    angle: -0.18
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: and as the singularity gets nearer
+    start_time: 3.8699999999999997
+    volume: 1
+    pitch: 1
+    duration: 1.9792083501815796
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 5.809999999999999
+    angle: 0
+    name: head_rotation
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.9097221749169486
+    start_time: 6.42
+    speed: 0.84
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: >-
+      there is going to be more and more love, and choice, and growth, and
+      wonder
+    start_time: 6.709999999999999
+    volume: 1
+    pitch: 1
+    duration: 4.574979305267334
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.422619047619048
+    start_time: 8.129999999999999
+    speed: 0.84
+    gesture: look-L
+  - lang: en
+    name: speech
+    text: it's going to be better den any of us can imagine!
+    start_time: 11.940000000000001
+    volume: 1
+    pitch: 1
+    duration: 3.0418541431427
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 5
+    start_time: 11.96
+    speed: 1
+    gesture: nod-6
+  - duration: 2
+    emotion: happy
+    start_time: 15.239999999999998
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

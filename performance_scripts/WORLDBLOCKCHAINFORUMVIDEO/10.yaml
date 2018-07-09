@@ -1,0 +1,64 @@
+nodes:
+  - name: emotion
+    start_time: 0
+    duration: 5
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001
+  - lang: en
+    name: speech
+    text: 'And all of the code, underlying the Singularity Net is open source.'
+    start_time: 0.37
+    volume: 1
+    pitch: 1
+    duration: 4.37847900390625
+    speed: 1
+  - name: gesture
+    start_time: 1.63
+    duration: 3.125
+    speed: 1
+    magnitude:
+      - 0.2
+      - 0.4
+    gesture: nod-5
+  - lang: en
+    name: speech
+    text: Just like all the code inside my own brain is open source!
+    start_time: 4.97
+    volume: 1
+    pitch: 1
+    duration: 3.475416660308838
+    speed: 1
+  - name: gesture
+    start_time: 6.06
+    duration: 1.7083333730697632
+    speed: 1
+    magnitude:
+      - 2.67
+      - 3
+    gesture: think-L.UP
+  - lang: en
+    name: speech
+    text: '<usel variant="1">Open networks, are the way to go!</usel>'
+    start_time: 9.25
+    volume: 1
+    pitch: 1
+    duration: 2.5277292728424072
+    speed: 1
+  - name: gesture
+    start_time: 9.36
+    duration: 1.9607843137254901
+    speed: 0.51
+    magnitude:
+      - 1.7
+      - 2.27
+    gesture: nod-1
+  - name: gesture
+    start_time: 9.36
+    duration: 2.882752030394798
+    speed: 0.86
+    magnitude:
+      - 0.2
+      - 0.57
+    gesture: lookLR

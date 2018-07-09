@@ -1,0 +1,40 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'My face is made of a patented material, called Frubber'
+    start_time: 1.3
+    volume: 1
+    pitch: 1
+    duration: 3.1932291984558105
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 1.8699999999999999
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: which allows me to make a wide variety of human like facial expressions
+    start_time: 5.24
+    volume: 1
+    pitch: 1
+    duration: 3.8715832233428955
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 6.680000000000001
+    speed: 1
+    gesture: nod-2
+  - duration: 1.5
+    emotion: surprised
+    start_time: 9.21
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

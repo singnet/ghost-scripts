@@ -1,0 +1,27 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      If self-driving cars, could coordinate with other ey eye software, they
+      could deal with new vehicles and unforeseen situations better.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 7.877604007720947
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 7.5126265034531094
+    speed: 0.33
+    magnitude:
+      - 0.39
+      - 0.59
+    gesture: lookLR
+  - name: gesture
+    start_time: 5.6
+    duration: 1.8593189536884265
+    speed: 0.93
+    magnitude:
+      - 0.39
+      - 0.59
+    gesture: nod-2

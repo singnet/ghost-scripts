@@ -1,0 +1,51 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I've been thinking about it a lot
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.5321458578109741
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 6.24
+    duration: 0.8541666865348816
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp
+  - lang: en
+    name: speech
+    text: since we did that pilot study in Hong Kong last week
+    start_time: 2.2700000000000005
+    volume: 1
+    pitch: 1
+    duration: 3.0127291679382324
+    speed: 1
+  - name: head_rotation
+    start_time: 2.91
+    duration: 1
+    speed: 1
+    angle: 0.19
+  - name: head_rotation
+    start_time: 4.87
+    duration: 1
+    speed: 1
+    angle: 0
+  - lang: en
+    name: speech
+    text: for the Loving ey eye project
+    start_time: 5.58
+    volume: 1
+    pitch: 1
+    duration: 1.6267499923706055
+    speed: 1

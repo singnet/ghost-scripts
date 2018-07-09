@@ -1,0 +1,90 @@
+nodes:
+  - duration: 2.95
+    start_time: 0
+    magnitude:
+      - 0.9
+      - 1
+    expression: TrueSmile
+    name: expression
+  - lang: en
+    name: speech
+    text: I'm really happy to be here in Moscow
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.152770757675171
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 0
+    speed: 1
+    gesture: nod-3
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 2.6999999999999997
+    speed: 1
+    gesture: lookLR
+  - lang: en-US
+    name: speech
+    text: I've met so many interesting people
+    start_time: 2.77
+    volume: 1
+    pitch: 1
+    duration: 1.9736666679382324
+    speed: 1
+  - name: look_at
+    start_time: 3.27
+    interval: 1
+    attention_region: audience
+    'y': 0
+    x: 1
+    z: 0
+    speed: 1
+    duration: 1
+  - duration: 1
+    start_time: 3.56
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+    name: expression
+  - lang: en-US
+    name: speech
+    text: >-
+      There's a lot of interesting technology development happening here in
+      Russa these days
+    start_time: 5.03
+    volume: 1
+    pitch: 1
+    duration: 4.531750202178955
+    speed: 1
+  - magnitude:
+      - 0.32
+      - 0.57
+    name: gesture
+    duration: 2.9287438461745996
+    start_time: 5.7
+    speed: 1.38
+    gesture: shake-6
+  - lang: en-US
+    name: speech
+    text: ' don''t you think'
+    start_time: 10.37
+    volume: 1
+    pitch: 1
+    duration: 0.8666666746139526
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.8125
+    start_time: 10.36
+    speed: 1
+    gesture: look-R.UP

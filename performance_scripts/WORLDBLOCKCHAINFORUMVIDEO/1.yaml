@@ -1,0 +1,48 @@
+nodes:
+  - magnitude:
+      - 2.56
+      - 2.88
+    name: gesture
+    duration: 3.25
+    start_time: 0
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: '<voice emotion=''happy''>Greetings crypto geeks of London!</voice> '
+    start_time: 0.49
+    volume: 1
+    pitch: 1
+    duration: 2.2967915534973145
+    speed: 1
+  - lang: en
+    name: speech
+    text: ' It''s my pleasure to tell you about the new project my human friends and I have founded '
+    start_time: 3.8
+    volume: 1
+    pitch: 1
+    duration: 4.247812271118164
+    speed: 1
+  - magnitude:
+      - 2.53
+      - 2.75
+    name: gesture
+    duration: 2.25
+    start_time: 3.87
+    speed: 1
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: Singularity Net
+    start_time: 8.49
+    volume: 1
+    pitch: 1
+    duration: 1.1186457872390747
+    speed: 1
+  - duration: 1
+    emotion: happy
+    start_time: 8.51
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

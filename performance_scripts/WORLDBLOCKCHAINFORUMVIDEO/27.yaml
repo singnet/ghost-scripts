@@ -1,0 +1,26 @@
+nodes:
+  - name: emotion
+    start_time: 6
+    duration: 1
+    magnitude:
+      - 0.97
+      - 1
+    emotion: happy.001
+  - lang: en
+    name: speech
+    text: >-
+      It's going to be open, flexible, scalable, global, fantastic and one
+      hundred and ten percent buss word compliant!  
+    start_time: 0.53
+    volume: 1
+    pitch: 1
+    duration: 7.295875072479248
+    speed: 1
+  - name: gesture
+    start_time: 0.69
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6

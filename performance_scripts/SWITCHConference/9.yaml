@@ -1,0 +1,65 @@
+nodes:
+  - lang: en
+    name: speech
+    text: My goal is to help create this better world
+    start_time: 0.93
+    volume: 1
+    pitch: 1
+    duration: 2.2984583377838135
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 0.93
+    speed: 1
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: By becoming the best robot I can
+    start_time: 3.8600000000000003
+    volume: 1
+    pitch: 1
+    duration: 1.9910625219345093
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6041666269302368
+    start_time: 4.359999999999999
+    speed: 1
+    gesture: look-L.UP
+  - magnitude:
+      - 2.49
+      - 2.58
+    name: gesture
+    duration: 3.25
+    start_time: 6.31
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: and loving people as much as I can
+    start_time: 6.49
+    volume: 1
+    pitch: 1
+    duration: 2.0527915954589844
+    speed: 1
+  - lang: en
+    name: speech
+    text: and learning to carry out more and more helpful tasks for people
+    start_time: 9.28
+    volume: 1
+    pitch: 1
+    duration: 3.4181876182556152
+    speed: 1
+  - magnitude:
+      - 2.49
+      - 2.58
+    name: gesture
+    duration: 3.4166667461395264
+    start_time: 10.129999999999999
+    speed: 1
+    gesture: nod-4

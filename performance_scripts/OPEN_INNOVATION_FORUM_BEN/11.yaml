@@ -1,0 +1,40 @@
+nodes:
+  - lang: en-US
+    name: speech
+    text: Now I want to say something in Russian
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.2286875247955322
+    speed: 1
+  - name: gesture
+    start_time: 2.36
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookLR
+  - lang: en-US
+    name: speech
+    text: please bear with me if it's not perfect
+    start_time: 2.65
+    volume: 1
+    pitch: 1
+    duration: 2.186333417892456
+    speed: 1
+  - name: emotion
+    start_time: 5.2
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001
+  - name: speech
+    start_time: 5.61
+    duration: 1.7947291135787964
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'I''ve been practicing all, week'
+    lang: en-US

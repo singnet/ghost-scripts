@@ -1,0 +1,92 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      ... my own understanding of all this complex software is still pretty
+      limited.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.825500011444092
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 4.041666507720947
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-6
+  - name: gesture
+    start_time: 0
+    duration: 4.811946902654868
+    speed: 1.13
+    magnitude:
+      - 0.2
+      - 0.42
+    gesture: sleep-in
+  - lang: en
+    name: speech
+    text: But  my human friends have been at this stuff for a long time.
+    start_time: 5.289999999999999
+    volume: 1
+    pitch: 1
+    duration: 3.470937490463257
+    speed: 1
+  - name: gesture
+    start_time: 5.4
+    duration: 3.1439393216913394
+    speed: 0.55
+    magnitude:
+      - 2
+      - 2.5
+    gesture: nod-2
+  - name: emotion
+    start_time: 9.18
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: surprised
+  - lang: en
+    name: speech
+    text: >-
+      They have a lot of ey eye tools already, that they will integrate into the
+      Singularity NET.
+    start_time: 9.219999999999999
+    volume: 1
+    pitch: 1
+    duration: 5.122312545776367
+    speed: 1
+  - name: gesture
+    start_time: 9.38
+    duration: 5.37878773429177
+    speed: 0.55
+    magnitude:
+      - 0.2
+      - 0.54
+    gesture: thoughtful
+  - name: emotion
+    start_time: 11.49
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001
+  - name: emotion
+    start_time: 15.04
+    duration: 4
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - lang: en
+    name: speech
+    text: >-
+      So it will be pretty intelligent from the get-go, and then get <usel
+      variant="2">smarter and smarter</usel>
+    start_time: 15.05
+    volume: 1
+    pitch: 1
+    duration: 4.452729225158691
+    speed: 1

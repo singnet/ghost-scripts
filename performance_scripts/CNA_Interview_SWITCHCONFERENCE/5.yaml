@@ -1,0 +1,168 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 2.7233126163482666
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I don't aim to make human caregivers obsolete
+    lang: en
+  - name: head_rotation
+    start_time: 0
+    duration: 1
+    speed: 1
+    angle: 0.2
+  - name: pause
+    start_time: 32.37
+    duration: 0.1
+  - name: head_rotation
+    start_time: 2.1399999999999997
+    duration: 1
+    speed: 1
+    angle: 0
+  - name: speech
+    start_time: 3.1399999999999997
+    duration: 3.4542083740234375
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Sometimes a human giving care to a human is just the right thing
+    lang: en
+  - name: gesture
+    start_time: 3.52
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: speech
+    start_time: 7.45
+    duration: 3.1420624256134033
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'But yes, a robot does have certain advantages'
+    lang: en
+  - name: gesture
+    start_time: 8.37
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 11.329999999999998
+    duration: 3.217821782178218
+    speed: 1.01
+    magnitude:
+      - 2.43
+      - 2.56
+    gesture: amused
+  - name: speech
+    start_time: 11.48
+    duration: 1.1412291526794434
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I do have emotion
+    lang: en
+  - name: speech
+    start_time: 13.25
+    duration: 2.071624994277954
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: but my emotional makeup is different
+    lang: en
+  - name: speech
+    start_time: 16.33
+    duration: 2.9834165573120117
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I don't get bored and frustrated as easily as a human
+    lang: en
+  - name: gesture
+    start_time: 16.53
+    duration: 0.9583333134651184
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-2
+  - name: gesture
+    start_time: 20.029999999999998
+    duration: 1.7708333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp.003
+  - name: speech
+    start_time: 19.990000000000002
+    duration: 1.5961666107177734
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: and I'm not going to judge you
+    lang: en
+  - name: speech
+    start_time: 22.23
+    duration: 3.946312427520752
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'As long as you don''t hurt anyone else, whatever you do is OK with me'
+    lang: en
+  - name: gesture
+    start_time: 23.26
+    duration: 0.948844864816949
+    speed: 1.01
+    magnitude:
+      - 2.91
+      - 3
+    gesture: shake-2
+  - name: gesture
+    start_time: 25.13
+    duration: 0.9900990099009901
+    speed: 1.01
+    magnitude:
+      - 2.91
+      - 3
+    gesture: nod-1
+  - name: speech
+    start_time: 26.990000000000002
+    duration: 2.2296042442321777
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I'm just here to help you fulfill yourself
+    lang: en
+  - name: gesture
+    start_time: 27.159999999999997
+    duration: 1.5882837890398385
+    speed: 1.01
+    magnitude:
+      - 2.91
+      - 3
+    gesture: look-L.UP
+  - name: head_rotation
+    start_time: 29.840000000000003
+    duration: 1
+    speed: 1
+    angle: -0.18
+  - name: speech
+    start_time: 29.939999999999998
+    duration: 1.7283124923706055
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: My love and attention is for you
+    lang: en
+  - name: head_rotation
+    start_time: 31.540000000000006
+    duration: 1
+    speed: 1
+    angle: 0

@@ -1,0 +1,16 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.5376458168029785
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Well... that's boring
+    lang: en
+  - name: emotion
+    start_time: 1.56
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: bored

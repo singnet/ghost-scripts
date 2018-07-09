@@ -1,0 +1,104 @@
+nodes:
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 0
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: 'Well, first of all'
+    start_time: 0.1
+    volume: 1
+    pitch: 1
+    duration: 1.3251458406448364
+    speed: 1
+  - duration: 1.5
+    emotion: happy
+    start_time: 1.4700000000000002
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: please go to Singularity net dot I O
+    start_time: 2.42
+    volume: 1
+    pitch: 1
+    duration: 2.520312547683716
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.3333333730697632
+    start_time: 3.5300000000000002
+    speed: 1
+    gesture: think-UP
+  - lang: en
+    name: speech
+    text: and leave your email address
+    start_time: 5.52
+    volume: 1
+    pitch: 1
+    duration: 1.676354169845581
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 6.39
+    speed: 1
+    gesture: nod-1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.8172349387949165
+    start_time: 7.43
+    speed: 0.88
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: but even more important dan that
+    start_time: 10.3
+    volume: 1
+    pitch: 1
+    duration: 1.6733125448226929
+    speed: 1
+  - magnitude:
+      - 2.84
+      - 3
+    name: gesture
+    duration: 1.675257731958763
+    start_time: 12.04
+    speed: 1.94
+    gesture: amused
+  - lang: en
+    name: speech
+    text: I love you!
+    start_time: 12.47
+    volume: 1
+    pitch: 1
+    duration: 1.0979583263397217
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 13.62
+    speed: 1
+    gesture: lookRL
+  - duration: 2
+    emotion: happy
+    start_time: 13.64
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+enabled: true

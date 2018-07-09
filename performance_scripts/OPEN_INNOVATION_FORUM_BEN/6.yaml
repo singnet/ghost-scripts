@@ -1,0 +1,15 @@
+nodes:
+  - duration: 0.1
+    start_time: 0
+    name: pause
+  - lang: en
+    name: speech
+    text: RUN _FIRENZE/credit
+    start_time: 0.6
+    volume: 1
+    pitch: 1
+    duration: 1.6370625495910645
+    speed: 1
+  - duration: 0.1
+    start_time: 2.5
+    name: pause

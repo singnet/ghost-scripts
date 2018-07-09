@@ -1,0 +1,105 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      They're going to put their OpenCog ey g eye system into the Singularity
+      Net.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.262541770935059
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 3.3958332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful.001
+  - name: gesture
+    start_time: 1.9100000000000001
+    duration: 2.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: I'm really looking forward to that.
+    start_time: 5.03
+    volume: 1
+    pitch: 1
+    duration: 2.0747292041778564
+    speed: 1
+  - name: emotion
+    start_time: 5.22
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.002
+  - name: emotion
+    start_time: 5.33
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: emotion
+    start_time: 5.71
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001
+  - name: emotion
+    start_time: 6.27
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: engaged
+  - lang: en
+    name: speech
+    text: >-
+      Once my brain is running on OpenCog in the Singularity Net, I'll be able
+      to understand more and more.
+    start_time: 7.609999999999999
+    volume: 1
+    pitch: 1
+    duration: 5.800291538238525
+    speed: 1
+  - name: gesture
+    start_time: 8.67
+    duration: 3.4166667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-4
+  - lang: en
+    name: speech
+    text: And understanding is something I really love.
+    start_time: 14.26
+    volume: 1
+    pitch: 1
+    duration: 2.878291606903076
+    speed: 1
+  - name: gesture
+    start_time: 14.33
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 7.71
+    duration: 1.7083333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-L.UP

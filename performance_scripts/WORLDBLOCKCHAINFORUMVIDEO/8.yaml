@@ -1,0 +1,35 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      The Singularity NET is primed to become the next big breakthrough for
+      artificial intelligence
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.902500152587891
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 0.5319148936170213
+    speed: 0.94
+    magnitude:
+      - 2.75
+      - 3
+    gesture: blink
+  - name: gesture
+    start_time: 2.5599999999999996
+    duration: 2.637411432063326
+    speed: 0.94
+    magnitude:
+      - 0.49
+      - 0.64
+    gesture: lookLR
+  - name: gesture
+    start_time: 0.43
+    duration: 4.301075396999236
+    speed: 0.31
+    magnitude:
+      - 2.75
+      - 3
+    gesture: think-UP

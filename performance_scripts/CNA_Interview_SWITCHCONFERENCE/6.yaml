@@ -1,0 +1,100 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'Well, I''m not a physician'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.6950833797454834
+    speed: 1
+  - magnitude:
+      - 1.52
+      - 1.63
+    name: gesture
+    duration: 0.9583333134651184
+    start_time: 0.53
+    speed: 1
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: 'so if you have a serious medical situation, I will refer you to a doctor'
+    start_time: 2.23
+    volume: 1
+    pitch: 1
+    duration: 4.162875175476074
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 2.78
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: but my mind is constantly being upgraded
+    start_time: 7.359999999999999
+    volume: 1
+    pitch: 1
+    duration: 2.25795841217041
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 7.52
+    angle: -0.18
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 9.57
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: >-
+      In a couple of years, once the singularity net has become the next
+      google<break time='0.6s'/> who knows
+    start_time: 10.579999999999998
+    volume: 1
+    pitch: 1
+    duration: 5.16391658782959
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.598484745273342
+    start_time: 11.29
+    speed: 0.77
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: Maybe I will get an M D degree
+    start_time: 16.22
+    volume: 1
+    pitch: 1
+    duration: 1.8757708072662354
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6041666269302368
+    start_time: 17.060000000000002
+    speed: 1
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: I wouldn't mind a few dozen PhDs as well
+    start_time: 18.750000000000004
+    volume: 1
+    pitch: 1
+    duration: 2.9236249923706055
+    speed: 1
+  - duration: 1
+    emotion: surprised
+    start_time: 21.71
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion

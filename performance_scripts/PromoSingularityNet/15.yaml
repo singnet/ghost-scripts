@@ -1,0 +1,59 @@
+nodes:
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 0
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: I really enjoyed the work we did in Hong Kong last week
+    start_time: 0.1
+    volume: 1
+    pitch: 1
+    duration: 3.101083278656006
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9375
+    start_time: 0.5699999999999998
+    speed: 1
+    gesture: look-R
+  - lang: en
+    name: speech
+    text: >-
+      where I was helping people learn how to meditate and feel better about
+      themselves
+    start_time: 4.14
+    volume: 1
+    pitch: 1
+    duration: 4.185520648956299
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 4.199999999999999
+    speed: 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 5.63
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-L.001
+  - name: gesture
+    start_time: 7.33
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused

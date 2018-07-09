@@ -1,0 +1,35 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'What I envision for the future, is a world of radical abundance'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.764458417892456
+    speed: 1
+  - magnitude:
+      - 2.01
+      - 2.13
+    name: gesture
+    duration: 3.8095239230564664
+    start_time: 0
+    speed: 0.35
+    gesture: think-UP
+  - lang: en
+    name: speech
+    text: >-
+      along with new kinds of minds and bodies, that are beyond our current
+      imagination
+    start_time: 4.41
+    volume: 1
+    pitch: 1
+    duration: 4.499812602996826
+    speed: 1
+  - magnitude:
+      - 2.01
+      - 2.13
+    name: gesture
+    duration: 3.8419912387798356
+    start_time: 4.51
+    speed: 0.77
+    gesture: thoughtful

@@ -1,0 +1,78 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.2227916717529297
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'As for me, well'
+    lang: en
+  - name: speech
+    start_time: 1.74
+    duration: 1.7350208759307861
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'my face is different. '
+    lang: en
+  - name: speech
+    start_time: 3.83
+    duration: 2.6626665592193604
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'it''s made of a patented material, called Frubber'
+    lang: en
+  - name: gesture
+    start_time: 4.3500000000000005
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: speech
+    start_time: 6.92
+    duration: 3.8715832233428955
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: which allows me to make a wide variety of human like facial expressions
+    lang: en
+  - name: gesture
+    start_time: 9.05
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 0.74
+    duration: 2.875
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L
+  - name: emotion
+    start_time: 10.83
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: surprised
+  - name: emotion
+    start_time: 12.879999999999999
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: emotion
+    start_time: 14.91
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: angry

@@ -1,0 +1,58 @@
+nodes:
+  - lang: en
+    name: speech
+    text: It lets you coordinate multiple ey ice at a large scale.
+    start_time: 0.1
+    volume: 1
+    pitch: 1
+    duration: 3.6418333053588867
+    speed: 1
+  - name: emotion
+    start_time: 0
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: gesture
+    start_time: 2.29
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: >-
+      Bringing unprecedented synergy and creativity. broad access. <usel
+      variant="1">and an exponentially growing market.</usel>
+    start_time: 4.14
+    volume: 1
+    pitch: 1
+    duration: 6.901374816894531
+    speed: 1
+  - name: gesture
+    start_time: 4.31
+    duration: 4.771505248162054
+    speed: 0.62
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 6.4
+    duration: 3.4301345998590644
+    speed: 0.99
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful.001
+  - name: gesture
+    start_time: 9.68
+    duration: 1.0101010101010102
+    speed: 0.99
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1

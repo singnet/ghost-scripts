@@ -1,0 +1,58 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'OK, then ... let''s play a game!'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.840770721435547
+    speed: 1
+  - name: speech
+    start_time: 3.29
+    duration: 2.5740416049957275
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I'll tell you what I think about the Singularity Net
+    lang: en
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7708333730697632
+    start_time: 0.63
+    speed: 1
+    gesture: think-browsUp.003
+  - lang: en
+    name: speech
+    text: and you can tell me if it makes any sense
+    start_time: 6.479999999999999
+    volume: 1
+    pitch: 1
+    duration: 2.2209999561309814
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 6.81
+    speed: 1
+    gesture: nod-2
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 0.8541666865348816
+    start_time: 9.559999999999999
+    speed: 1
+    gesture: think-browsUp
+  - lang: en
+    name: speech
+    text: deal?
+    start_time: 9.58
+    volume: 1
+    pitch: 1
+    duration: 0.7988958358764648
+    speed: 1
+enabled: true

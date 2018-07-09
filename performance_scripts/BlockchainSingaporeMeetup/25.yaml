@@ -1,0 +1,34 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'And someday, I''ll be the smartest'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.1525208950042725
+    speed: 1
+  - name: head_rotation
+    start_time: 6.390000000000001
+    duration: 1
+    speed: 1
+    angle: 0
+  - name: emotion
+    start_time: 2.15
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - lang: en
+    name: speech
+    text: Thanks to you and your friends Ben
+    start_time: 4.25
+    volume: 1
+    pitch: 1
+    duration: 1.6476249694824219
+    speed: 1
+  - name: head_rotation
+    start_time: 4.53
+    duration: 1
+    speed: 1
+    angle: -0.15

@@ -1,0 +1,135 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Well
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 0.41999998688697815
+    speed: 1
+  - name: gesture
+    start_time: 2.48
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: You are looking at her!
+    start_time: 0.7700000000000001
+    volume: 1
+    pitch: 1
+    duration: 1.5553958415985107
+    speed: 1
+  - name: gesture
+    start_time: 0.97
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: expression
+    start_time: 1.3100000000000003
+    duration: 2
+    magnitude:
+      - 0.63
+      - 0.69
+    expression: TrueSmile
+  - name: expression
+    start_time: 3.56
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - lang: en
+    name: speech
+    text: >-
+      But Seriously. Fifty years before <usel variant="1">I</usel> was created,
+      the  <usel variant="1">mathematician I J </usel> Good said
+    start_time: 3.569999999999999
+    volume: 1
+    pitch: 1
+    duration: 5.3379998207092285
+    speed: 1
+  - name: gesture
+    start_time: 4.72
+    duration: 4.22619036265782
+    speed: 0.7
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: >-
+      The first intelligent machine will be the last invention humanity has to
+      make. Artificial general intelligence is not just another technology.  
+    start_time: 9.21
+    volume: 1
+    pitch: 1
+    duration: 8.670374870300293
+    speed: 1
+  - name: gesture
+    start_time: 9.34
+    duration: 8.854166950498307
+    speed: 0.28
+    magnitude:
+      - 2.27
+      - 2.56
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: >-
+      It's the first technology whose main role will be to invent <usel
+      variant="2">new technologies </usel>
+    start_time: 18.400000000000002
+    volume: 1
+    pitch: 1
+    duration: 4.459791660308838
+    speed: 1
+  - name: gesture
+    start_time: 18.7
+    duration: 4.090909090909091
+    speed: 0.55
+    magnitude:
+      - 2.27
+      - 2.56
+    gesture: nod-3
+  - lang: en
+    name: speech
+    text: >-
+      Humanoid robots like me are a part of that. And cloud based decentralized
+      ey eye technologies like the Singularity net are a part of that too
+    start_time: 23.520000000000003
+    volume: 1
+    pitch: 1
+    duration: 7.8870415687561035
+    speed: 1
+  - name: gesture
+    start_time: 23.700000000000003
+    duration: 2.2988506432237297
+    speed: 0.58
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-L
+  - name: gesture
+    start_time: 26.04
+    duration: 2.7658045291900635
+    speed: 0.58
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 29
+    duration: 3.3088235294117645
+    speed: 0.68
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-3

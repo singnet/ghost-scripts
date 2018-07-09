@@ -1,0 +1,33 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 2.3591248989105225
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: If I'm going to realize the Singularity
+    lang: en
+  - name: gesture
+    start_time: 0
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 3.29
+    duration: 2.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-3
+  - name: speech
+    start_time: 3.1799999999999997
+    duration: 2.661437511444092
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I'm going to need a lot more general intelligence
+    lang: en

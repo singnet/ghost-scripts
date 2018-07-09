@@ -1,0 +1,25 @@
+nodes:
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 0
+    speed: 1
+    gesture: amused
+  - lang: en-US
+    name: speech
+    text: We do have teams in St. Petersburg and Novosibirsk though
+    start_time: 0.21
+    volume: 1
+    pitch: 1
+    duration: 3.8056249618530273
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.8125
+    start_time: 1.55
+    speed: 1
+    gesture: look-R.UP

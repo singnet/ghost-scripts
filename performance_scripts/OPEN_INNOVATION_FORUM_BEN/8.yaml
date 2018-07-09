@@ -1,0 +1,15 @@
+nodes:
+  - duration: 0.1
+    start_time: 0
+    name: pause
+  - lang: en
+    name: speech
+    text: RUN PROMOSINGULARITYNET TIMELINE
+    start_time: 0.5
+    volume: 1
+    pitch: 1
+    duration: 1.529937505722046
+    speed: 1
+  - duration: 0.1
+    start_time: 2.1
+    name: pause

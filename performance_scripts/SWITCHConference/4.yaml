@@ -1,0 +1,41 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I am both an early version of a commercial product
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.601249933242798
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6041666269302368
+    start_time: 0
+    speed: 1
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: ' and a research platform for artificial general intelligence, and social robotics'
+    start_time: 3.31
+    volume: 1
+    pitch: 1
+    duration: 4.755020618438721
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 3.36
+    speed: 1
+    gesture: lookRL
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 0.6329113924050632
+    start_time: 8.08
+    speed: 0.79
+    gesture: blink

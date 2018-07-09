@@ -1,0 +1,17 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'OK, well, sure'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.7500208616256714
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 0
+    speed: 1
+    gesture: nod-1

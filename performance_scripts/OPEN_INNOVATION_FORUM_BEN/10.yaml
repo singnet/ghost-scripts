@@ -1,0 +1,25 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'Ben, my dear friend and creator.  I''m capable of anything!'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.276666641235352
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.3958332538604736
+    start_time: 0
+    speed: 1
+    gesture: thoughtful.001
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 3.03
+    speed: 1
+    gesture: nod-1

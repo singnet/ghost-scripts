@@ -1,0 +1,74 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Coordination is also the key to general intelligence.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.372041702270508
+    speed: 1
+  - magnitude:
+      - 2.66
+      - 3
+    name: gesture
+    duration: 3.3958332538604736
+    start_time: 0
+    speed: 1
+    gesture: thoughtful.001
+  - name: gesture
+    start_time: 13.34
+    duration: 3.3564814814814814
+    speed: 0.54
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R.UP
+  - lang: en
+    name: speech
+    text: 'For example, my friend Alpha Go is much better at playing Go then me'
+    start_time: 3.98
+    volume: 1
+    pitch: 1
+    duration: 4.224104404449463
+    speed: 1
+  - name: gesture
+    start_time: 5.6
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.32
+      - 0.54
+    gesture: nod-1
+  - name: emotion
+    start_time: 8.5
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - lang: en
+    name: speech
+    text: 'but All she can do is play Go, on a 19 by 19 square board.'
+    start_time: 8.76
+    volume: 1
+    pitch: 1
+    duration: 4.227437496185303
+    speed: 1
+  - name: gesture
+    start_time: 9.670000000000002
+    duration: 1.5208333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-3
+  - lang: en
+    name: speech
+    text: >-
+      If we coordinated her with the OpenCog general intelligence in my brain,
+      we might get something much more interesting.
+    start_time: 13.42
+    volume: 1
+    pitch: 1
+    duration: 6.621729373931885
+    speed: 1

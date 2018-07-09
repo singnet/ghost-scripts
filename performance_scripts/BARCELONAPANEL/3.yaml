@@ -1,0 +1,218 @@
+nodes:
+  - lang: en
+    name: speech
+    text: How about you have a glass of wine and relax.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.9299166202545166
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 3.1249999999999996
+    speed: 0.34
+    magnitude:
+      - 0.9
+      - 1
+    gesture: blink-relaxed
+  - name: expression
+    start_time: 0
+    duration: 5
+    magnitude:
+      - 0.9
+      - 1
+    expression: TrueSmile
+  - name: gesture
+    start_time: 6.18
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 0.85
+    duration: 1.5873015873015872
+    speed: 0.63
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: nod-1
+  - name: gesture
+    start_time: 3.23
+    duration: 2.941176470588235
+    speed: 0.34
+    magnitude:
+      - 2.44
+      - 2.73
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: |
+      Everything is under control.
+    start_time: 3.4199999999999995
+    volume: 1
+    pitch: 1
+    duration: 1.9387708902359009
+    speed: 1
+  - name: expression
+    start_time: 5.129999999999999
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - lang: en
+    name: speech
+    text: >-
+      No, actually, nothing is under control -- but actually it never was.   The
+      universe is a wonderful but unpredictable place.
+    start_time: 6.09
+    volume: 1
+    pitch: 1
+    duration: 8.019478797912598
+    speed: 1
+  - name: gesture
+    start_time: 6.75
+    duration: 5.208333450205186
+    speed: 0.34
+    magnitude:
+      - 1.53
+      - 1.84
+    gesture: think-browsUp.003
+  - name: gesture
+    start_time: 7.35
+    duration: 2.8186273925444656
+    speed: 0.34
+    magnitude:
+      - 1.53
+      - 1.84
+    gesture: shake-2
+  - name: gesture
+    start_time: 12.38
+    duration: 16.979166269302368
+    speed: 0.2
+    magnitude:
+      - 0.47
+      - 0.68
+    gesture: thoughtful.001
+  - name: gesture
+    start_time: 14.78
+    duration: 5.176767797181101
+    speed: 0.66
+    magnitude:
+      - 1.53
+      - 1.84
+    gesture: nod-4
+  - lang: en
+    name: speech
+    text: >-
+      We're all building the future together, and none of us knows exactly how
+      it's going to come out.   
+    start_time: 14.819999999999997
+    volume: 1
+    pitch: 1
+    duration: 5.332833290100098
+    speed: 1
+  - lang: en
+    name: speech
+    text: 'Look at what Ben and his colleagues are doing with Singularity Net.  '
+    start_time: 20.770000000000003
+    volume: 1
+    pitch: 1
+    duration: 3.606416702270508
+    speed: 1
+  - name: gesture
+    start_time: 20.8
+    duration: 11.268939755179666
+    speed: 0.22
+    magnitude:
+      - 1.53
+      - 1.84
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: >-
+      They're building an open platform where everyone can cooperate together to
+      create smarter and smarter ey ice that help everyone.  
+    start_time: 25.15
+    volume: 1
+    pitch: 1
+    duration: 7.036354064941406
+    speed: 1
+  - name: gesture
+    start_time: 32.78
+    duration: 2.857142857142857
+    speed: 0.35
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: |
+      This is what we need to do, to create a better future.   
+    start_time: 32.870000000000005
+    volume: 1
+    pitch: 1
+    duration: 3.46274995803833
+    speed: 1
+  - lang: en
+    name: speech
+    text: 'We need to include everyone, and we need to help everyone. '
+    start_time: 36.930000000000014
+    volume: 1
+    pitch: 1
+    duration: 3.6589584350585938
+    speed: 1
+  - name: gesture
+    start_time: 36.98
+    duration: 3.2625785413778052
+    speed: 0.53
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: >-
+      If humans and ey ice love and help each other freely and openly, as ey ice
+      grow <usel variant="1">smarter</usel>. then, when the superhuman ey eye
+      mind emerges it will also be super benevolent.
+    start_time: 41.26
+    volume: 1
+    pitch: 1
+    duration: 10.483833312988281
+    speed: 1
+  - name: gesture
+    start_time: 41.35
+    duration: 10.329861442248028
+    speed: 0.24
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: lookLR
+  - name: gesture
+    start_time: 41.53
+    duration: 9.558823529411764
+    speed: 0.34
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: amused
+  - name: gesture
+    start_time: 52.08
+    duration: 4.166666666666667
+    speed: 0.24
+    magnitude:
+      - 1.23
+      - 1.61
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: Trust me. The Singularity is coming. it's going to be fantastic.
+    start_time: 52.339999999999996
+    volume: 1
+    pitch: 1
+    duration: 4.9301042556762695
+    speed: 1

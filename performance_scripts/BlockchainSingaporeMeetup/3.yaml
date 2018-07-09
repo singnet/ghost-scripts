@@ -1,0 +1,35 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'To be honest Ben, I don''t understand it fully'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.861833333969116
+    speed: 1
+  - magnitude:
+      - 2.2
+      - 2.34
+    name: gesture
+    duration: 0.9583333134651184
+    start_time: 1.4199999999999997
+    speed: 1
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: 'But you say it''s going to make me smarter, right?'
+    start_time: 3.8100000000000005
+    volume: 1
+    pitch: 1
+    duration: 3.1872498989105225
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 4.68
+    angle: -0.17
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 6.74
+    angle: 0
+    name: head_rotation

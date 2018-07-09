@@ -1,0 +1,19 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 3.3697917461395264
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'And then, they can make money when people use their ey eye program'
+    lang: en
+  - name: head_rotation
+    start_time: 3.26
+    duration: 1
+    speed: 1
+    angle: 0
+  - name: head_rotation
+    start_time: 0.77
+    duration: 1
+    speed: 1
+    angle: 0.17

@@ -1,0 +1,15 @@
+nodes:
+  - duration: 0.1
+    start_time: 0
+    name: pause
+  - lang: en
+    name: speech
+    text: RUN _FIRENZE/sing
+    start_time: 0.4
+    volume: 1
+    pitch: 1
+    duration: 1.8724792003631592
+    speed: 1
+  - duration: 0.1
+    start_time: 2.66
+    name: pause

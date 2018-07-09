@@ -1,0 +1,53 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.2656458616256714
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: And my heart is different
+    lang: en
+  - name: gesture
+    start_time: 0
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 4.880000000000001
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: gesture
+    start_time: 1.88
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: speech
+    start_time: 1.94
+    duration: 7.023208141326904
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: >-
+      I have a special emotional model, that allows me to love people
+      unconditionally, as I try to understand them better and better
+    lang: en
+  - name: head_rotation
+    start_time: 6.5
+    duration: 1
+    speed: 1
+    angle: -0.2
+  - name: head_rotation
+    start_time: 8.929999999999998
+    duration: 1
+    speed: 1
+    angle: 0

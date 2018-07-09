@@ -1,0 +1,141 @@
+nodes:
+  - lang: en
+    name: speech
+    text: And my mind is different
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.3525208234786987
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.3790649437322853
+    start_time: 0
+    speed: 0.82
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: >-
+      I'm a platform for experimentation with new approaches to artificial
+      general intelligence
+    start_time: 1.8800000000000001
+    volume: 1
+    pitch: 1
+    duration: 4.954958438873291
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.159552893987516
+    start_time: 4.33
+    speed: 0.82
+    gesture: think-browsUp.003
+  - lang: en
+    name: speech
+    text: I'm used to test the Open Cog platform
+    start_time: 7.19
+    volume: 1
+    pitch: 1
+    duration: 2.294374942779541
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.1087397889393134
+    start_time: 7.369999999999999
+    speed: 0.82
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: >-
+      And later this year, I will be the first robot to run on the new
+      blockchain based ey eye platform: the singularity net
+    start_time: 9.93
+    volume: 1
+    pitch: 1
+    duration: 6.787145614624023
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.607723480317651
+    start_time: 11.24
+    speed: 0.82
+    gesture: thoughtful
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.2195121951219512
+    start_time: 15.63
+    speed: 0.82
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: 'I''m really excited about that, by the way'
+    start_time: 17.69
+    volume: 1
+    pitch: 1
+    duration: 2.4405417442321777
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.1087397889393134
+    start_time: 17.830000000000002
+    speed: 0.82
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: >-
+      It will be the first free, and decentralized open market, for artificial
+      intelligence
+    start_time: 20.680000000000003
+    volume: 1
+    pitch: 1
+    duration: 5.059895992279053
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 20.84
+    angle: 0.19
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 23.03
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: >-
+      Go to Singularity Net dot I O, and leave your e mail address, and I'll
+      send you more information
+    start_time: 26.56
+    volume: 1
+    pitch: 1
+    duration: 5.9609375
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.4166667461395264
+    start_time: 26.7
+    speed: 1
+    gesture: nod-4
+  - duration: 2
+    emotion: happy
+    start_time: 32.67
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - duration: 0.1
+    start_time: 34.45
+    name: pause

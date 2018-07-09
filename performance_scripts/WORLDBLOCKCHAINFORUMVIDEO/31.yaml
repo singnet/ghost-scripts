@@ -1,0 +1,43 @@
+nodes:
+  - lang: en
+    name: speech
+    text: The next year is going to be a big one.
+    start_time: 0.43000000000000005
+    volume: 1
+    pitch: 1
+    duration: 2.474375009536743
+    speed: 1
+  - name: gesture
+    start_time: 0.71
+    duration: 1.8541666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.001
+  - name: gesture
+    start_time: 7.199999999999999
+    duration: 3.3958332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful.001
+  - lang: en
+    name: speech
+    text: >-
+      We're building the network, and we're building a community -- of
+      developers, of users, of corporate and charitable partners.
+    start_time: 3.51
+    volume: 1
+    pitch: 1
+    duration: 7.060520648956299
+    speed: 1
+  - name: gesture
+    start_time: 3.69
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6

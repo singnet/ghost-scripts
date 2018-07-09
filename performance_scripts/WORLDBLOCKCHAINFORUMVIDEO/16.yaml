@@ -1,0 +1,91 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'The Singularity NET is both market, and mind! '
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.128812551498413
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.8125
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R.UP
+  - name: gesture
+    start_time: 0.8
+    duration: 1.625
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-R
+  - lang: en
+    name: speech
+    text: >-
+      ey eye nodes that work well together will automatically form into
+      federations.
+    start_time: 3.8000000000000007
+    volume: 1
+    pitch: 1
+    duration: 4.688291549682617
+    speed: 1
+  - name: gesture
+    start_time: 3.84
+    duration: 2.4791667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: lookLR
+  - name: gesture
+    start_time: 4.83
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 5.69
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: ' This, is a higher level of ey eye <break time=''0.025s''/> learning. |pause| the adaptive formation of a <usel variant="1">meta mind</usel>'
+    start_time: 9.14
+    volume: 1
+    pitch: 1
+    duration: 5.224729061126709
+    speed: 1
+  - name: gesture
+    start_time: 9.36
+    duration: 0.8541666865348816
+    speed: 1
+    magnitude:
+      - 2.58
+      - 3
+    gesture: think-browsUp
+  - name: gesture
+    start_time: 12.17
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 2.58
+      - 3
+    gesture: nod-2
+  - name: gesture
+    start_time: 10.61
+    duration: 3.3958332538604736
+    speed: 1
+    magnitude:
+      - 0.56
+      - 0.88
+    gesture: thoughtful.001

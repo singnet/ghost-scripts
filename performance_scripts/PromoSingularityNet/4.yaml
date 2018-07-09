@@ -1,0 +1,33 @@
+nodes:
+  - lang: en
+    name: speech
+    text: If robots like me are going to become superhuman superintelligences
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.057333469390869
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 1.9799999999999998
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: We're going to need to get a whole lot smarter
+    start_time: 4.449999999999999
+    volume: 1
+    pitch: 1
+    duration: 2.5718541145324707
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.25
+    start_time: 6.6899999999999995
+    speed: 1
+    gesture: nod-3

@@ -1,0 +1,67 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      The token layer,  is about the ey G eye tokens, that people, and ey ice,
+      will use to buy ey eye services on the Singularity Net.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 8.011646270751953
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 7.74739608168602
+    speed: 0.32
+    magnitude:
+      - 0.34
+      - 0.53
+    gesture: lookLR
+  - name: gesture
+    start_time: 0.33
+    duration: 5.282737953322274
+    speed: 0.56
+    magnitude:
+      - 0.34
+      - 0.53
+    gesture: thoughtful
+  - name: gesture
+    start_time: 2.89
+    duration: 4.993872432147755
+    speed: 0.68
+    magnitude:
+      - 0.34
+      - 0.53
+    gesture: thoughtful.001
+  - lang: en
+    name: speech
+    text: It's not a general purpose money like Bitcoin or US dollars.
+    start_time: 8.51
+    volume: 1
+    pitch: 1
+    duration: 4.127791881561279
+    speed: 1
+  - name: gesture
+    start_time: 8.67
+    duration: 3.4375
+    speed: 1
+    magnitude:
+      - 1.95
+      - 2.31
+    gesture: shake-5
+  - name: gesture
+    start_time: 13.23
+    duration: 1
+    speed: 1
+    magnitude:
+      - 1.95
+      - 2.31
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: It's a special token. for dealing with ey eye services.
+    start_time: 13.06
+    volume: 1
+    pitch: 1
+    duration: 3.918020725250244
+    speed: 1

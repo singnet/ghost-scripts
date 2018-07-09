@@ -1,0 +1,90 @@
+nodes:
+  - lang: en
+    name: speech
+    text: In a way what we have is like an app store for ey ice.
+    start_time: 0.25
+    volume: 1
+    pitch: 1
+    duration: 3.312000036239624
+    speed: 1
+  - name: gesture
+    start_time: 0.53
+    duration: 0.8541666865348816
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp
+  - name: gesture
+    start_time: 1.99
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.3
+      - 0.44
+    gesture: nod-2
+  - name: gesture
+    start_time: 4.2299999999999995
+    duration: 2.3293962628822626
+    speed: 1.27
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: <usel variant="1">But it's also more than that</usel>
+    start_time: 4.34
+    volume: 1
+    pitch: 1
+    duration: 1.641854166984558
+    speed: 1
+  - name: emotion
+    start_time: 6.63
+    duration: 3
+    magnitude:
+      - 0.9
+      - 1
+    emotion: sad
+  - lang: en
+    name: speech
+    text: 'Because in an app store, apps don''t generally talk to each other'
+    start_time: 6.76
+    volume: 1
+    pitch: 1
+    duration: 3.6174583435058594
+    speed: 1
+  - name: gesture
+    start_time: 7.45
+    duration: 0.9583333134651184
+    speed: 1
+    magnitude:
+      - 1.57
+      - 1.75
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: >-
+      Here, outside businesses can buy services from ey eye nodes, but ey eye
+      nodes can also buy services from each other.
+    start_time: 10.93
+    volume: 1
+    pitch: 1
+    duration: 6.925979137420654
+    speed: 1
+  - name: gesture
+    start_time: 12.89
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.34
+      - 0.57
+    gesture: nod-6
+  - name: gesture
+    start_time: 11.34
+    duration: 6.530448565116295
+    speed: 0.52
+    magnitude:
+      - 0.34
+      - 0.57
+    gesture: thoughtful.001

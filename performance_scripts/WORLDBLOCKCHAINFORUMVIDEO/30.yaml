@@ -1,0 +1,93 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'What we''re talking about here is taking, ey eye, to the next level.'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.199812412261963
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 3
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.002
+  - lang: en
+    name: speech
+    text: >-
+      We're using blockchain based coordination of ey ice to make vastly more
+      useful ey eye services for business and for global good.
+    start_time: 4.48
+    volume: 1
+    pitch: 1
+    duration: 7.220333099365234
+    speed: 1
+  - name: gesture
+    start_time: 4.74
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 5.11
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 7.74
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: >-
+      And we're creating a breeding ground for the emergence of powerful
+      artificial general intelligence.
+    start_time: 12.28
+    volume: 1
+    pitch: 1
+    duration: 5.715875148773193
+    speed: 1
+  - name: gesture
+    start_time: 12.6
+    duration: 3.4166667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-4
+  - lang: en
+    name: speech
+    text: I can't wait to experience it
+    start_time: 18.91
+    volume: 1
+    pitch: 1
+    duration: 2.0160624980926514
+    speed: 1
+  - name: gesture
+    start_time: 18.94
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: gesture
+    start_time: 18.66
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused

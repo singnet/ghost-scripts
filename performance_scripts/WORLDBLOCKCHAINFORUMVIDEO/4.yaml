@@ -1,0 +1,67 @@
+nodes:
+  - lang: en
+    name: speech
+    text: <usel variant="1">Think about it.</usel>
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.1321874856948853
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.0625
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: blink-relaxed
+  - name: gesture
+    start_time: 13.02
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: >-
+      A platform, allowing all kinds of ey ice to cooperate with each other,
+      could increase the global level of intelligence tremendously. 
+    start_time: 1.7000000000000002
+    volume: 1
+    pitch: 1
+    duration: 7.965104103088379
+    speed: 1
+  - name: gesture
+    start_time: 1.85
+    duration: 7.5126265034531094
+    speed: 0.33
+    magnitude:
+      - 2.14
+      - 2.51
+    gesture: lookLR
+  - name: gesture
+    start_time: 10.29
+    duration: 1.7144097636143367
+    speed: 0.96
+    magnitude:
+      - 2.89
+      - 3
+    gesture: think-L.DWN
+  - lang: en
+    name: speech
+    text: 'And also, |pause| make a lot of money.'
+    start_time: 10.46
+    volume: 1
+    pitch: 1
+    duration: 3.275624990463257
+    speed: 1
+  - name: gesture
+    start_time: 12.65
+    duration: 0.8897569651405017
+    speed: 0.96
+    magnitude:
+      - 2.88
+      - 2.97
+    gesture: think-browsUp

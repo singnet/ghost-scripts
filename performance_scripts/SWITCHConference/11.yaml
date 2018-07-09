@@ -1,0 +1,43 @@
+nodes:
+  - duration: 1
+    start_time: 0
+    magnitude:
+      - 0.9
+      - 1
+    expression: LOOKDOWN
+    name: expression
+  - lang: en
+    name: speech
+    text: OK
+    start_time: 1.05
+    volume: 1
+    pitch: 1
+    duration: 0.550000011920929
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.4791667461395264
+    start_time: 1.7199999999999998
+    speed: 1
+    gesture: lookLR
+  - lang: en
+    name: speech
+    text: sales pitch over
+    start_time: 2.1300000000000003
+    volume: 1
+    pitch: 1
+    duration: 1.238291621208191
+    speed: 1
+  - duration: 2
+    emotion: happy
+    start_time: 4.33
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - duration: 0.1
+    start_time: 6.56
+    name: pause
+enabled: true

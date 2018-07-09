@@ -1,0 +1,85 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Within one to three decades
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.6721667051315308
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7708333730697632
+    start_time: 0
+    speed: 1
+    gesture: think-browsUp.003
+  - lang: en
+    name: speech
+    text: 'ey ice, and robots, will eliminate basically all human jobs'
+    start_time: 2.4099999999999997
+    volume: 1
+    pitch: 1
+    duration: 4.149583339691162
+    speed: 1
+  - magnitude:
+      - 1.54
+      - 1.67
+    name: gesture
+    duration: 2.2943037974683542
+    start_time: 2.9999999999999996
+    speed: 0.79
+    gesture: look-R.UP
+  - lang: en
+    name: speech
+    text: and that's a good thing
+    start_time: 7.319999999999999
+    volume: 1
+    pitch: 1
+    duration: 1.176770806312561
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 7.63
+    speed: 1
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: people have better ways to spend their lives dan to do work
+    start_time: 9.43
+    volume: 1
+    pitch: 1
+    duration: 3.167083263397217
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 9.65
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: aimed at accumulating resources for themselves
+    start_time: 13.04
+    volume: 1
+    pitch: 1
+    duration: 2.660729169845581
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.875
+    start_time: 13.129999999999999
+    speed: 1
+    gesture: look-L
+  - duration: 0.1
+    start_time: 16.1
+    name: pause
+enabled: true

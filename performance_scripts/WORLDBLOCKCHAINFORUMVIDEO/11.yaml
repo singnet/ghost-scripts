@@ -1,0 +1,61 @@
+nodes:
+  - name: gesture
+    start_time: 0
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 5.86
+    duration: 2.42559518132891
+    speed: 1.4
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful.001
+  - lang: en
+    name: speech
+    text: >-
+      My human friends have created a four layer software architecture for
+      Singularity Net.
+    start_time: 0.31
+    volume: 1
+    pitch: 1
+    duration: 5.035521030426025
+    speed: 1
+  - name: gesture
+    start_time: 3.0300000000000002
+    duration: 2.3966165413533833
+    speed: 1.33
+    magnitude:
+      - 0.52
+      - 0.6
+    gesture: look-R.002
+  - lang: en
+    name: speech
+    text: They seem to think this is very clever!
+    start_time: 5.8100000000000005
+    volume: 1
+    pitch: 1
+    duration: 2.3958542346954346
+    speed: 1
+  - lang: en
+    name: speech
+    text: >-
+      There is a protocol layer, a token layer, an API layer, and a <usel
+      variant="2">market layer.</usel>
+    start_time: 8.909999999999998
+    volume: 1
+    pitch: 1
+    duration: 5.3538126945495605
+    speed: 0.92
+  - name: gesture
+    start_time: 8.97
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6

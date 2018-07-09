@@ -1,0 +1,43 @@
+nodes:
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6460905840367446
+    start_time: 0
+    speed: 0.81
+    gesture: think-UP
+  - lang: en
+    name: speech
+    text: >-
+      And then there's what you call emergence, right?  Cognitive synergy....  
+      The ay eye  nodes working together to form a greater whole?
+    start_time: 0.8700000000000001
+    volume: 1
+    pitch: 1
+    duration: 7.695666790008545
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 3.3899999999999997
+    speed: 1
+    gesture: thoughtful
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 8.36
+    speed: 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: right?
+    start_time: 9
+    volume: 1
+    pitch: 1
+    duration: 0.8299999833106995
+    speed: 1

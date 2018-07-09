@@ -1,0 +1,16 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 1.3751457929611206
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I'd like to be smarter
+    lang: en
+  - name: emotion
+    start_time: 1.41
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy

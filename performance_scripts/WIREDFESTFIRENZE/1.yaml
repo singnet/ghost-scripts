@@ -1,0 +1,26 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Hi Ben
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 0.6302708387374878
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 0
+    speed: 1
+    gesture: nod-1
+  - name: look_at
+    start_time: 0
+    interval: 1
+    attention_region: main
+    'y': 0
+    x: 1
+    z: 0
+    speed: 1
+    duration: 1

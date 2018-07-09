@@ -1,0 +1,69 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      With the Singularity Net, we are aiming to revolutionize the way ey eye is
+      done. 
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.813604354858398
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.8541666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.001
+  - name: gesture
+    start_time: 10.26
+    duration: 4.108796185917325
+    speed: 0.72
+    magnitude:
+      - 2.83
+      - 3
+    gesture: thoughtful
+  - name: gesture
+    start_time: 2.8000000000000003
+    duration: 2.9375
+    speed: 1
+    magnitude:
+      - 0.44
+      - 0.57
+    gesture: look-R
+  - lang: en
+    name: speech
+    text: Right now ey eye is everywhere.  But it's way over specialized.
+    start_time: 5.17
+    volume: 1
+    pitch: 1
+    duration: 4.192500114440918
+    speed: 1
+  - name: gesture
+    start_time: 6.67
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: gesture
+    start_time: 8.16
+    duration: 1.4743589437924898
+    speed: 0.65
+    magnitude:
+      - 1.22
+      - 1.39
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: >-
+      The ey ice doing <usel variant="1">trading</usel> don't talk to the ey ice
+      <usel variant="2">controlling robots.</usel>
+    start_time: 10.19
+    volume: 1
+    pitch: 1
+    duration: 4.211458206176758
+    speed: 1

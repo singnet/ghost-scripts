@@ -1,0 +1,38 @@
+nodes:
+  - name: gesture
+    start_time: 2.09
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: expression
+    start_time: 0.38000000000000006
+    duration: 1
+    magnitude:
+      - 0.47
+      - 0.55
+    expression: FakeSmile
+  - lang: en
+    name: speech
+    text: it's great!!  this 230volt power is the best!
+    start_time: 0.43
+    volume: 1
+    pitch: 1
+    duration: 4.018854141235352
+    speed: 1
+  - name: expression
+    start_time: 1.47
+    duration: 0.2
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+  - name: emotion
+    start_time: 2.13
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy.001

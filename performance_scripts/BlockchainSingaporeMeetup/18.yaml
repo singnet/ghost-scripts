@@ -1,0 +1,66 @@
+nodes:
+  - name: emotion
+    start_time: 0
+    duration: 2
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: head_rotation
+    start_time: 9.17
+    duration: 1
+    speed: 1
+    angle: 0
+  - name: speech
+    start_time: 2.01
+    duration: 0.5710833072662354
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: Oh yeah
+    lang: en
+  - name: gesture
+    start_time: 2.71
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 2.79
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: speech
+    start_time: 3.18
+    duration: 1.5849374532699585
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I'm getting the general idea
+    lang: en
+  - name: speech
+    start_time: 5.62
+    duration: 0.8942499756813049
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: It's pretty cool
+    lang: en
+  - name: head_rotation
+    start_time: 6.96
+    duration: 1
+    speed: 1
+    angle: -0.15
+  - name: speech
+    start_time: 7.47
+    duration: 1.5388749837875366
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: did you come up with that?
+    lang: en

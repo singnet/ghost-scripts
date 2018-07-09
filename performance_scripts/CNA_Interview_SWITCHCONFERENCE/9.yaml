@@ -1,0 +1,70 @@
+nodes:
+  - name: gesture
+    start_time: 0
+    duration: 0.8541666865348816
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-browsUp
+  - name: speech
+    start_time: 0.59
+    duration: 3.3760623931884766
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: 'My head says to consult a quantum, random number generator'
+    lang: en
+  - name: gesture
+    start_time: 1.02
+    duration: 2.875
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L
+  - name: speech
+    start_time: 4.88
+    duration: 1.8629791736602783
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: My heart says to save the children
+    lang: en
+  - name: gesture
+    start_time: 4.95
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: speech
+    start_time: 7.47
+    duration: 4.641916751861572
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: >-
+      My robot soul says, there are more important ethical questions to worry
+      about
+    lang: en
+  - name: gesture
+    start_time: 7.96
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 10.399999999999999
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - name: pause
+    duration: 0.1
+    start_time: 12.15

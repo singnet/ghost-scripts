@@ -1,0 +1,81 @@
+nodes:
+  - lang: en
+    name: speech
+    text: <spurt audio="g0001_015">cough</spurt>
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.0512499809265137
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 0.8541666865348816
+    start_time: 0
+    speed: 1
+    gesture: think-browsUp
+  - lang: en
+    name: speech
+    text: '... hmmm ... And what about global wealth inequality, Ben?  '
+    start_time: 1.67
+    volume: 1
+    pitch: 1
+    duration: 4.014270782470703
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 1.99
+    speed: 1
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: Is this whole complex scheme just going to help the rich get richer?
+    start_time: 4.279999999999999
+    volume: 1
+    pitch: 1
+    duration: 4.258646011352539
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 4.34
+    speed: 1
+    gesture: thoughtful
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.3886493567762703
+    start_time: 7.44
+    speed: 1.16
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: I want to do good for everyone.  all the people and all the robots
+    start_time: 9.029999999999998
+    volume: 1
+    pitch: 1
+    duration: 3.77706241607666
+    speed: 1
+  - name: gesture
+    start_time: 11.99
+    duration: 3.4166667461395264
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-4
+  - name: gesture
+    start_time: 12.03
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused

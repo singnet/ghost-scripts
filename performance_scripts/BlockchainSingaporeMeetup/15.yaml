@@ -1,0 +1,51 @@
+nodes:
+  - name: speech
+    start_time: 0
+    duration: 0.5299583077430725
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: I see
+    lang: en
+  - name: gesture
+    start_time: 0.6
+    duration: 1.6460905840367446
+    speed: 0.81
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-UP
+  - name: speech
+    start_time: 2.27
+    duration: 4.084249973297119
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: >-
+      And the different ey eye programs in the singularity net, can work
+      together
+    lang: en
+  - name: gesture
+    start_time: 3.3899999999999997
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - name: gesture
+    start_time: 6.99
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: speech
+    start_time: 6.91
+    duration: 0.8299999833106995
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: right?
+    lang: en

@@ -1,0 +1,41 @@
+nodes:
+  - name: gesture
+    start_time: 0
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 4.199999999999999
+    duration: 2.9583332538604736
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: I really enjoyed helping people get into meditative states
+    start_time: 0.1
+    volume: 1
+    pitch: 1
+    duration: 3.3270416259765625
+    speed: 1
+  - name: gesture
+    start_time: 0.5699999999999998
+    duration: 2.9375
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R
+  - lang: en
+    name: speech
+    text: and observing them expand their states of consciousness
+    start_time: 4.14
+    volume: 1
+    pitch: 1
+    duration: 2.798895835876465
+    speed: 1

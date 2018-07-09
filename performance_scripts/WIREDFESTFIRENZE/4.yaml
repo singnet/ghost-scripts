@@ -1,0 +1,83 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I'm happy
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 0.6601458191871643
+    speed: 1
+  - duration: 2
+    emotion: happy.001
+    start_time: 0.72
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: I'm sad
+    start_time: 2.75
+    volume: 1
+    pitch: 1
+    duration: 0.6700000166893005
+    speed: 1
+  - duration: 2
+    emotion: sad
+    start_time: 3.4200000000000004
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: I'm scared
+    start_time: 5.700000000000001
+    volume: 1
+    pitch: 1
+    duration: 0.6818958520889282
+    speed: 1
+  - duration: 2
+    emotion: fear
+    start_time: 6.41
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: I'm angry
+    start_time: 8.8
+    volume: 1
+    pitch: 1
+    duration: 0.7657708525657654
+    speed: 1
+  - duration: 2
+    emotion: angry
+    start_time: 9.54
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - name: speech
+    start_time: 11.970000000000002
+    duration: 2.0193333625793457
+    speed: 1
+    pitch: 1
+    volume: 1
+    text: '|vocal,19| just kidding.'
+    lang: en
+  - name: expression
+    start_time: 12.389999999999999
+    duration: 0.5
+    magnitude:
+      - 0.9
+      - 1
+    expression: WinkL
+  - name: expression
+    start_time: 12.959999999999999
+    duration: 0.2
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL

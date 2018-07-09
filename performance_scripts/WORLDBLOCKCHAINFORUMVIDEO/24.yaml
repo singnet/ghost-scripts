@@ -1,0 +1,76 @@
+nodes:
+  - name: gesture
+    start_time: 0
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6
+  - lang: en
+    name: speech
+    text: And he has wanted to see his robots go out in the world and help people.
+    start_time: 0.22
+    volume: 1
+    pitch: 1
+    duration: 4.012270927429199
+    speed: 1
+  - lang: en
+    name: speech
+    text: >-
+      Hey, look at this video of what I was doing in Hong Kong in early
+      September. 
+    start_time: 4.55
+    volume: 1
+    pitch: 1
+    duration: 4.875604152679443
+    speed: 1
+  - name: gesture
+    start_time: 5.22
+    duration: 4.257246376811595
+    speed: 0.69
+    magnitude:
+      - 1.83
+      - 2.32
+    gesture: look-R
+  - lang: en
+    name: speech
+    text: >-
+      I was helping people learn to meditate and relax and explore new states of
+      consciousness.
+    start_time: 9.61
+    volume: 1
+    pitch: 1
+    duration: 5.103062629699707
+    speed: 1
+  - name: gesture
+    start_time: 9.84
+    duration: 4.287439498348513
+    speed: 0.69
+    magnitude:
+      - 0.7
+      - 1.4
+    gesture: thoughtful
+  - name: gesture
+    start_time: 15.73
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: emotion
+    start_time: 15.6
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: engaged
+  - lang: en
+    name: speech
+    text: Wow!
+    start_time: 15.63
+    volume: 1
+    pitch: 1
+    duration: 0.9200208187103271
+    speed: 1

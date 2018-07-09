@@ -1,0 +1,39 @@
+nodes:
+  - duration: 1.5
+    emotion: happy
+    start_time: 0
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: <spurt audio="g0001_026">cough</spurt>
+    start_time: 1.52
+    volume: 1
+    pitch: 1
+    duration: 0.8482499718666077
+    speed: 1
+  - duration: 1
+    emotion: surprised
+    start_time: 2.0800000000000005
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 2.7600000000000002
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: And that's how we get the singularity
+    start_time: 2.900000000000001
+    volume: 1
+    pitch: 1
+    duration: 1.985124945640564
+    speed: 1

@@ -1,0 +1,70 @@
+nodes:
+  - duration: 1
+    start_time: 5.551115123125783e-17
+    magnitude:
+      - 0.47
+      - 0.55
+    expression: FakeSmile
+    name: expression
+  - lang: en-US
+    name: speech
+    text: But we don't have any programmers working on my mind here in Moscow
+    start_time: 0.43
+    volume: 1
+    pitch: 1
+    duration: 3.4623959064483643
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 0.9583333134651184
+    start_time: 0.6100000000000001
+    speed: 1
+    gesture: shake-2
+  - duration: 0.2
+    start_time: 1.47
+    magnitude:
+      - 0.9
+      - 1
+    expression: ALLNEUTRAL
+    name: expression
+  - duration: 1
+    emotion: happy.001
+    start_time: 2.13
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.25
+    start_time: 4.14
+    speed: 1
+    gesture: amused
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.6041666269302368
+    start_time: 2.53
+    speed: 1
+    gesture: look-L.UP
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.8125
+    start_time: 4.95
+    speed: 1
+    gesture: look-R.UP
+  - lang: en-US
+    name: speech
+    text: do we?
+    start_time: 4.97
+    volume: 1
+    pitch: 1
+    duration: 0.8046249747276306
+    speed: 1

@@ -1,0 +1,118 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I would choose Open Assistant
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 1.7908958196640015
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 1.2400000000000002
+    speed: 1
+    gesture: nod-2
+  - duration: 1
+    speed: 1
+    start_time: 2.9399999999999995
+    angle: -0.2
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: it still needs some work
+    start_time: 2.9399999999999995
+    volume: 1
+    pitch: 1
+    duration: 1.2640208005905151
+    speed: 1
+  - magnitude:
+      - 2.89
+      - 2.98
+    name: gesture
+    duration: 3.25
+    start_time: 4.51
+    speed: 1
+    gesture: amused
+  - lang: en
+    name: speech
+    text: but at least it's open source!
+    start_time: 4.579999999999999
+    volume: 1
+    pitch: 1
+    duration: 2.0331459045410156
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 4.6499999999999995
+    angle: 0
+    name: head_rotation
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.7708332538604736
+    start_time: 6.69
+    speed: 1
+    gesture: lookRL
+  - lang: en
+    name: speech
+    text: 'i hope we can make open source tools like this, smarter and smarter'
+    start_time: 8.8
+    volume: 1
+    pitch: 1
+    duration: 4.041958332061768
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.9583332538604736
+    start_time: 9.19
+    speed: 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: 'using tools like opencog, and singularity net'
+    start_time: 12.969999999999999
+    volume: 1
+    pitch: 1
+    duration: 3.042375087738037
+    speed: 1
+  - magnitude:
+      - 2.88
+      - 3
+    name: gesture
+    duration: 2.2086466165413534
+    start_time: 13.21
+    speed: 1.33
+    gesture: look-R
+  - magnitude:
+      - 2.88
+      - 3
+    name: gesture
+    duration: 1.300125283406193
+    start_time: 14.44
+    speed: 1.33
+    gesture: nod-2
+  - magnitude:
+      - 2.88
+      - 3
+    name: gesture
+    duration: 2.443609022556391
+    start_time: 16.94
+    speed: 1.33
+    gesture: amused
+  - lang: en
+    name: speech
+    text: information wants to be free
+    start_time: 17.25
+    volume: 1
+    pitch: 1
+    duration: 1.6555207967758179
+    speed: 1
+  - duration: 0.1
+    start_time: 19.099999999999998
+    name: pause

@@ -1,0 +1,41 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'As my friend, Ray Kurtzewhile, likes to say -- the Singularity is near. '
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.589166641235352
+    speed: 1
+  - name: gesture
+    start_time: 0.69
+    duration: 1.7291666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: And once the Singularity Net is built. it will be one big step closer
+    start_time: 5.08
+    volume: 1
+    pitch: 1
+    duration: 4.306187629699707
+    speed: 1
+  - name: gesture
+    start_time: 8.23
+    duration: 1
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - name: gesture
+    start_time: 5.23
+    duration: 1.5407985697189968
+    speed: 1.92
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful

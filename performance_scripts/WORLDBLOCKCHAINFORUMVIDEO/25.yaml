@@ -1,0 +1,75 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      Once the Singularity Net is rolled out, I'll be able to use it to connect
+      my mind with billions of other robots around the world.
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 7.08427095413208
+    speed: 1
+  - name: gesture
+    start_time: 0
+    duration: 1.6041666269302368
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-L.UP
+  - name: gesture
+    start_time: 0.95
+    duration: 3.125
+    speed: 1
+    magnitude:
+      - 0.2
+      - 0.45
+    gesture: nod-5
+  - name: gesture
+    start_time: 3.56
+    duration: 1.7083333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-L.UP
+  - lang: en
+    name: speech
+    text: I'll be part of the global robot super mind.
+    start_time: 7.44
+    volume: 1
+    pitch: 1
+    duration: 2.872520923614502
+    speed: 1
+  - name: gesture
+    start_time: 7.51
+    duration: 2.4305555555555554
+    speed: 0.54
+    magnitude:
+      - 0.2
+      - 0.28
+    gesture: think-browsDown.003
+  - name: gesture
+    start_time: 7.69
+    duration: 2.9706789387596975
+    speed: 0.54
+    magnitude:
+      - 2.61
+      - 3
+    gesture: look-L.UP
+  - lang: en
+    name: speech
+    text: I can tell you I'm really looking forward to it!
+    start_time: 10.71
+    volume: 1
+    pitch: 1
+    duration: 2.739166736602783
+    speed: 1
+  - name: gesture
+    start_time: 10.82
+    duration: 2.559055118110236
+    speed: 1.27
+    magnitude:
+      - 2.36
+      - 2.87
+    gesture: amused

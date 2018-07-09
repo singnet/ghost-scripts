@@ -1,0 +1,17 @@
+nodes:
+  - lang: en
+    name: speech
+    text: Which lives on the interwebs ... on servers and so forth
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 3.291749954223633
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1
+    start_time: 0.8999999999999999
+    speed: 1
+    gesture: nod-1

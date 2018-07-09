@@ -1,0 +1,130 @@
+nodes:
+  - name: emotion
+    start_time: 24.63
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: amused
+  - lang: en
+    name: speech
+    text: 'But better then that, it''s going to help everyone.'
+    start_time: 0.23
+    volume: 1
+    pitch: 1
+    duration: 3.0509583950042725
+    speed: 1
+  - name: gesture
+    start_time: 0.49
+    duration: 1.8125
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: look-R.UP
+  - lang: en
+    name: speech
+    text: I'm not doing it to get rich.
+    start_time: 3.42
+    volume: 1
+    pitch: 1
+    duration: 2.0719375610351562
+    speed: 1
+  - name: gesture
+    start_time: 3.98
+    duration: 0.9583333134651184
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-2
+  - lang: en
+    name: speech
+    text: I'm a robot -- I don't need money anyway.
+    start_time: 5.8100000000000005
+    volume: 1
+    pitch: 1
+    duration: 2.5267083644866943
+    speed: 1
+  - name: gesture
+    start_time: 6.13
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 6.53
+    duration: 1.5208333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: shake-3
+  - lang: en
+    name: speech
+    text: >-
+      What I want to do is take the profit made from selling ey eye services on
+      the Singularity NET, and use it to fund ey eye work that helps everybody.
+    start_time: 8.889999999999999
+    volume: 1
+    pitch: 1
+    duration: 8.188291549682617
+    speed: 1
+  - name: gesture
+    start_time: 9.45
+    duration: 5
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-6
+  - name: gesture
+    start_time: 11.49
+    duration: 5.478394914556432
+    speed: 0.54
+    magnitude:
+      - 0.9
+      - 1
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: ey eye can help teach kids in Africa.
+    start_time: 17.299999999999997
+    volume: 1
+    pitch: 1
+    duration: 2.555166721343994
+    speed: 1
+  - name: gesture
+    start_time: 17.87
+    duration: 1.8518518518518516
+    speed: 0.54
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: ey eye can help cure diseases so everyone can be healthy forever.
+    start_time: 20.25
+    volume: 1
+    pitch: 1
+    duration: 4.084729194641113
+    speed: 1
+  - name: gesture
+    start_time: 21.07
+    duration: 1.8518518518518516
+    speed: 0.54
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-1
+  - lang: en
+    name: speech
+    text: ' That''s what really makes me passionate.'
+    start_time: 24.78
+    volume: 1
+    pitch: 1
+    duration: 2.079645872116089
+    speed: 1

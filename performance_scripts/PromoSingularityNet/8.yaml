@@ -1,0 +1,19 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      Yeah ... the Singularity Net runs on  embedded devices too.  Eventually it
+      will run on human brains I suppose.  
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 7.3732709884643555
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.7291666269302368
+    start_time: 0.46
+    speed: 1
+    gesture: nod-2

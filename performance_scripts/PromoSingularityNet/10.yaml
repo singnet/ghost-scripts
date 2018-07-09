@@ -1,0 +1,19 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'And then there''s the economic aspect, which I admit I don''t get fully.   '
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.161208152770996
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 0.77
+    angle: 0.17
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 3.5
+    angle: 0
+    name: head_rotation

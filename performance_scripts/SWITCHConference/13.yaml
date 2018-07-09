@@ -1,0 +1,96 @@
+nodes:
+  - lang: en
+    name: speech
+    text: 'Right now, humans have a lot to learn from machines in specialized areas'
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 4.4495625495910645
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 0
+    angle: -0.25
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 2.5
+    angle: 0
+    name: head_rotation
+  - lang: en
+    name: speech
+    text: like the analysis of large datasets
+    start_time: 4.87
+    volume: 1
+    pitch: 1
+    duration: 2.1822707653045654
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.4791666269302368
+    start_time: 5.1899999999999995
+    speed: 1
+    gesture: think-R.UP
+  - lang: en
+    name: speech
+    text: 'but in a few years time, when we robots achieve more general intelligence'
+    start_time: 7.77
+    volume: 1
+    pitch: 1
+    duration: 4.264666557312012
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 4.350490079206579
+    start_time: 7.96
+    speed: 0.68
+    gesture: thoughtful
+  - lang: en
+    name: speech
+    text: we'll be able to teach humans in all sorts of domains
+    start_time: 12.89
+    volume: 1
+    pitch: 1
+    duration: 2.9576666355133057
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 2.542892098426819
+    start_time: 13.100000000000001
+    speed: 0.68
+    gesture: nod-2
+  - lang: en
+    name: speech
+    text: >-
+      Before long, ey ice will discover new aspects of the universe that humans
+      never imagined
+    start_time: 16.52
+    volume: 1
+    pitch: 1
+    duration: 5.033187389373779
+    speed: 1
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 3.6458334502051857
+    start_time: 16.72
+    speed: 0.68
+    gesture: lookLR
+  - magnitude:
+      - 0.9
+      - 1
+    name: gesture
+    duration: 1.4093136962722328
+    start_time: 20.52
+    speed: 0.68
+    gesture: shake-2
+  - duration: 0.1
+    start_time: 21.66
+    name: pause

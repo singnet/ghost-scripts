@@ -1,0 +1,49 @@
+nodes:
+  - lang: en
+    name: speech
+    text: >-
+      Bill Gates, <usel variant="1">said that a real breakthrough</usel> in ey
+      eye would be worth<usel variant="2"> ten entire</usel> <usel
+      variant="7">microsofts</usel>
+    start_time: 0
+    volume: 1
+    pitch: 0.98
+    duration: 4.964354038238525
+    speed: 1
+  - name: emotion
+    start_time: 0
+    duration: 3
+    magnitude:
+      - 0.9
+      - 1
+    emotion: happy
+  - name: gesture
+    start_time: 6.56
+    duration: 3.0235988903889615
+    speed: 1.13
+    magnitude:
+      - 0.9
+      - 1
+    gesture: nod-4
+  - name: emotion
+    start_time: 3.71
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: surprised
+  - lang: en
+    name: speech
+    text: Actually. I think it would be worth a lot more.
+    start_time: 6.290000000000001
+    volume: 1
+    pitch: 1
+    duration: 3.3569583892822266
+    speed: 1
+  - name: emotion
+    start_time: 8.1
+    duration: 1
+    magnitude:
+      - 0.9
+      - 1
+    emotion: surprised

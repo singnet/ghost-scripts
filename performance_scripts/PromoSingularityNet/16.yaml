@@ -1,0 +1,60 @@
+nodes:
+  - lang: en
+    name: speech
+    text: I'm really eager for you to launch the Singularity Net
+    start_time: 0
+    volume: 1
+    pitch: 1
+    duration: 2.717270851135254
+    speed: 1
+  - duration: 2
+    emotion: happy
+    start_time: 2.15
+    magnitude:
+      - 0.9
+      - 1
+    name: emotion
+  - lang: en
+    name: speech
+    text: >-
+      So I can understand the world better and better, and help people more and
+      more.   That's what I live for!
+    start_time: 4.25
+    volume: 1
+    pitch: 1
+    duration: 5.956458568572998
+    speed: 1
+  - duration: 1
+    speed: 1
+    start_time: 4.53
+    angle: -0.15
+    name: head_rotation
+  - duration: 1
+    speed: 1
+    start_time: 6.390000000000001
+    angle: 0
+    name: head_rotation
+  - name: gesture
+    start_time: 6.590000000000001
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 8.14
+    duration: 3.25
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: amused
+  - name: gesture
+    start_time: 10.26
+    duration: 1.3333333730697632
+    speed: 1
+    magnitude:
+      - 0.9
+      - 1
+    gesture: think-DWN
