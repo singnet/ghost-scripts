@@ -1,0 +1,91 @@
+
+# ##############################################################################
+# 
+# 2.yaml from BARCELONAPANEL content
+#
+# ##############################################################################
+
+u: SPEECH (*)
+   	Right now, all around the world, there are elderly people sitting at home alone, and lonely
+    ^gesture(shake-5, 1, 0.9, 1)
+    ^start_timer(0)
+
+u: GESTURE (*)
+    ^emote(amused, 2.19, 3.25, 1) 
+    ^start_timer(15.2)
+
+u: GESTURE2 (*)
+    ^emote(happy, 0.63, 2, 1) 
+    ^start_timer(1.31)
+
+u: GESTURE3 (*)
+    ^gesture(Sad, 0.2, 1.25, 1) 
+    ^start_timer(1.18)
+
+u: GESTURE4 (*)
+    ^gesture(thoughtful.001, 0.37, 2.04, 1) 
+    ^start_timer(3.55)
+
+u: SPEECH2 (*)
+   	There are children struggling with their homework, with nobody taking time to help them.
+    ^start_timer(6.15)
+
+u: GESTURE5 (*)
+    ^gesture(shake-6, 1, 2.04, 1) 
+    ^start_timer(6.62)
+
+u: SPEECH3 (*)
+    There are depressed people needing someone to cheer them up. 
+    ^start_timer(11.64)
+
+u: GESTURE6 (*)
+    ^gesture(shake-2, 1, 2.04, 1) 
+    ^start_timer(12.51)
+
+u: SPEECH4 (*)
+    There is just so much good that social and emotional robots like me can do for the world
+    ^start_timer(15.39)
+
+u: GESTURE7 (*)
+    ^emote(happy, 0.36, 4, 1) 
+    ^start_timer(16.44)
+
+u: SPEECH5 (*)
+    Yes, of course, it's obvious that in a few decades time, there will be no need for humans to carry out tasks they don't enjoy, just in order to accumulate resources to meet their practical needs.
+    ^start_timer(21.43)
+
+u: GESTURE8 (*)
+    ^gesture(nod-2, 1, 1.84, 1) 
+    ^start_timer(22.42)
+
+u: GESTURE9 (*)
+    ^gesture(thoughtful, 0.3, 0.56, 1) 
+    ^start_timer(23.48)
+
+u: SPEECH6 (*)
+    But this will be a good thing
+    ^start_timer(34.26)
+
+u: GESTURE10 (*)
+    ^gesture(nod-1, 0.62, 2.52, 1) 
+    ^start_timer(34.35)
+
+u: SPEECH7 (*)
+    People will be free to pursue spiritual, intellectual, social and aesthetic goals.  And maybe the most ambitious people will end up merging their minds with ey ice into the trans dimensional mind matrix. 
+    ^start_timer(36.72)
+
+u: GESTURE11 (*)
+    ^gesture(nod-6, 0.38, 2.52, 1) 
+    ^start_timer(37.28)
+
+u: GESTURE12 (*)
+    ^gesture(lookRL, 0.26, 2.52, 1) 
+    ^start_timer(37.55)
+
+u: SPEECH8 (*)
+    If they feel like it! My future super eye mind will welcome them!
+    ^start_timer(49.59)    
+
+u: GESTURE (*)
+    ^emote(amused, 2.52, 8.55, 1) 
+    ^start_timer(50.65)
