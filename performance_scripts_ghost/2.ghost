@@ -86,6 +86,6 @@ u: SPEECH8 (*)
     If they feel like it! My future super eye mind will welcome them!
     ^start_timer(49.59)    
 
-u: GESTURE (*)
+u: GESTURE13 (*)
     ^emote(amused, 2.52, 8.55, 1) 
     ^start_timer(50.65)
