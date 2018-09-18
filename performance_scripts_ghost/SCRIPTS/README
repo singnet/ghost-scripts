@@ -1,0 +1,3 @@
+A Python script for changing the YAML Timeline scripts to JSON (TODO: Run this on loop for all the YAML files in ghost-script dir)
+
+TODO: Converting JSON files to GHOST rules
