@@ -6,7 +6,8 @@ def main():
 
 	# change the directories manually for now
 	filedir = ["BARCELONAPANEL", "BlockchainSingaporeMeetup", "CNA_Interview_SWITCHCONFERENCE", 
-		"OPEN_INNOVATION_FORUM_BEN", "PromoSingularityNet", "SWITCHConference", "WIREDFESTFIRENZE", "WORLDBLOCKCHAINFORUMVIDEO"]
+		"OPEN_INNOVATION_FORUM_BEN", "PromoSingularityNet", "SWITCHConference", 
+		"WIREDFESTFIRENZE", "WORLDBLOCKCHAINFORUMVIDEO"]
 	for j in range(len(filedir)):
 		#files = next
 		filePATH = "../performance_scripts/" + filedir[j]
