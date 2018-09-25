@@ -33,7 +33,13 @@ def main():
 							mag = ', '.join(str(e) for e in value[i].get("magnitude"))
 							ghost.write(value[i].get(k) + ", " + '{}' .format(value[i].get("speed")) + ", " + mag + ")")		
 					if (k == "text"):
-						ghost.write('{}' .format(value[i].get(k)) + " ")
+						# Removing of some <> entries from YAML
+						textval = value[i].get(k)
+						textval = textval.replace('</usel>','')
+						textval = textval.replace('<usel variant=','')
+						textval = textval.replace('">','')
+						textval = textval.replace('"','')
+						ghost.write('{}' .format(textval) + " ")
 				ghost.write("\n\n")
 				i += 1
 	print("Timeline rules converted to a file named " + ghost.name)
