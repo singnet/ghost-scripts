@@ -26,18 +26,19 @@ def main():
 						ghost.write("^start_timer(" + '{}' .format(value[i].get(k)) + ") ")
 					if (k == "gesture"):
 						if (value[i].get(k) in emotions):
+							#emote(name_node, magnitude_node, duration_node, blend_node)
 							mag = ', '.join(str(e) for e in value[i].get("magnitude"))
 							ghost.write("^emote(" + value[i].get(k) + ", " + mag + ", " + '{}' .format(value[i].get("duration")) + ")")
 						else:
+							#gesture(name_node, speed_node, magnitude_node, repeat_node)
 							mag = ', '.join(str(e) for e in value[i].get("magnitude"))
 							ghost.write("^gesture(" + value[i].get(k) + ", " + '{}' .format(value[i].get("speed")) + ", " + mag + ")")		
 					if (k == "text"):
 						# Removing of some <> entries from YAML
 						textval = value[i].get(k)
-						textval = textval.replace('</usel>','')
-						textval = textval.replace('<usel variant=','')
-						textval = textval.replace('">','')
-						textval = textval.replace('"','')
+						trunc = {"</usel>", "<usel variant=", ">", "\""}
+						for m in trunc:
+							textval = textval.replace(m, '')
 						ghost.write('{}' .format(textval) + " ")
 				ghost.write("\n\n")
 				i += 1
