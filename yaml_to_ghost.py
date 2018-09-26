@@ -25,13 +25,12 @@ def main():
 					if (k == "start_time"):
 						ghost.write("^start_timer(" + '{}' .format(value[i].get(k)) + ") ")
 					if (k == "gesture"):
-						ghost.write("^gesture(")
 						if (value[i].get(k) in emotions):
 							mag = ', '.join(str(e) for e in value[i].get("magnitude"))
-							ghost.write(value[i].get(k) + ", " + mag + ", " + '{}' .format(value[i].get("duration")) + ")")
+							ghost.write("^emote(" + value[i].get(k) + ", " + mag + ", " + '{}' .format(value[i].get("duration")) + ")")
 						else:
 							mag = ', '.join(str(e) for e in value[i].get("magnitude"))
-							ghost.write(value[i].get(k) + ", " + '{}' .format(value[i].get("speed")) + ", " + mag + ")")		
+							ghost.write("^gesture(" + value[i].get(k) + ", " + '{}' .format(value[i].get("speed")) + ", " + mag + ")")		
 					if (k == "text"):
 						# Removing of some <> entries from YAML
 						textval = value[i].get(k)
