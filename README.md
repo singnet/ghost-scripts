@@ -7,3 +7,6 @@ This project aims to import performance scripts authored using the aforementione
 
 # Task list
 The set of things to done for this endeavor are outlined in our [projects ] (https://github.com/singnet/ghost-scripts/projects/1) page. 
+
+# Usage
+The guile scripts is located under *Scripts* directory

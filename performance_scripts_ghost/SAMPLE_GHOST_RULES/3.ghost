@@ -1,0 +1,99 @@
+
+# ##############################################################################
+# 
+# 3.yaml from BARCELONAPANEL content
+#
+# ##############################################################################
+
+u: SPEECH (*)
+   	|smile, 5, 0.9|How about you have a glass of wine and relax.
+    ^gesture(blink-relaxed, 0.34, 0.9, 1)
+    ^start_timer(0)
+
+u: GESTURE (*)
+    ^emote(amused, 0.9, 3.25, 1) 
+    ^start_timer(15.2)
+
+u: GESTURE2 (*)
+    ^gesture(nod-1, 0.63, 2.44, 1) 
+    ^start_timer(1.18)
+
+u: GESTURE3 (*)
+    ^gesture(nod-1, 0.34, 1.23, 1) 
+    ^start_timer(1.18)
+
+u: SPEECH2 (*)
+    Everything is under control
+    ^start_timer(3.42)
+
+u: SPEECH3 (*)
+    No, actually, nothing is under control -- but actually it never was. The universe is a wonderful but unpredictable place.
+    ^start_timer(6.09)
+
+u: GESTURE4 (*)
+    ^gesture(think-browsUp.003, 0.34, 1.53, 1) 
+    ^start_timer(6.75)
+
+u: GESTURE5 (*)
+    ^gesture(shake-2, 0.34, 1.53, 1) 
+    ^start_timer(7.35)
+
+u: GESTURE6 (*)
+    ^gesture(thoughtful.001, 0.2, 0.47, 1) 
+    ^start_timer(12.38)
+
+u: GESTURE7 (*)
+    ^gesture(nod-4, 0.66, 1.53, 1) 
+    ^start_timer(14.78)
+
+u: SPEECH4 (*)
+    We're all building the future together, and none of us knows exactly how it's going to come out. 
+    ^start_timer(14.81)
+
+u: SPEECH5 (*)
+    Look at what Ben and his colleagues are doing with Singularity Net.
+    ^start_timer(20.77)
+
+u: GESTURE8 (*)
+    ^gesture(lookLR, 0.22, 1.53, 1) 
+    ^start_timer(20.8)
+
+u: SPEECH6 (*)
+    They're building an open platform where everyone can cooperate together to create smarter and smarter ey ice that help everyone
+    ^start_timer(25.15)
+
+u: GESTURE9 (*)
+    ^gesture(nod-1, 0.35, 1.23, 1) 
+    ^start_timer(32.78)
+
+u: SPEECH7 (*)
+    This is what we need to do, to create a better future.
+    ^start_timer(32.87)
+
+u: SPEECH8 (*)
+    We need to include everyone, and we need to help everyone.
+    ^start_timer(36.93)
+
+u: GESTURE10 (*)
+    ^gesture(nod-2, 0.53, 1.23, 1) 
+    ^start_timer(36.98)
+
+u: SPEECH9 (*)
+    If humans and ey ice love and help each other freely and openly, as ey ice grow smarter. Then, when the superhuman mind emerges it will also be super benevolent. 
+    ^start_timer(41.26)
+
+u: GESTURE11 (*)
+    ^gesture(lookLR, 0.24, 1.23, 1) 
+    ^start_timer(41.35)
+
+u: GESTURE12 (*)
+    ^gesture(amused, 0.34, 1.23, 1) 
+    ^start_timer(41.53)
+
+u: GESTURE13 (*)
+    ^emote(nod-1, 0.24, 1.23, 1) 
+    ^start_timer(52.08)
+
+u: SPEECH10 (*)
+    Trust me. The Singularity is coming. it's going to be fantastic.
+    ^start_timer(52.34)  

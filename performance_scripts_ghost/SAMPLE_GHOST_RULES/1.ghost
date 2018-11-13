@@ -1,0 +1,58 @@
+
+# ##############################################################################
+# 
+# 1.yaml from BARCELONAPANEL content
+#
+# ##############################################################################
+
+u: SPEECH (*)
+   	Well
+    ^start_timer(0)
+
+u: GESTURE (*)
+    ^gesture(nod-1, 1, 0.9, 1) 
+    ^start_timer(2.48)
+
+u: SPEECH2 (*)
+   	You are looking at her!
+    ^start_timer(0.77)
+
+u: GESTURE2 (*)
+    ^emote(amused, 0.9, 3.25, 1) 
+    ^start_timer(0.97)
+
+u: GESTURE3 (*)
+    ^emote(happy, 0.63, 2, 1) 
+    ^start_timer(1.31)
+
+u: SPEECH3 (*)
+   	But Seriously. Fifty years before I was created, the mathematician I Good said
+    ^start_timer(3.56)
+
+u: GESTURE4 (*)
+    ^gesture(thoughtful, 0.7, 0.9, 1) 
+    ^start_timer(4.72)
+
+u: SPEECH4 (*)
+   	The first intelligent machine will be the last invention humanity has to make. Artificial general intelligence is not just another technology.  
+    ^start_timer(9.21)
+
+u: GESTURE5 (*)
+    ^gesture(nod-3, 0.55, 2.27, 1) 
+    ^start_timer(18.7)
+
+u: SPEECH5 (*)
+   	Humanoid robots like me are a part of that. And cloud based decentralized eye technologies like the Singularity net are a part of that too
+    ^start_timer(23.52)
+
+u: GESTURE6 (*)
+    ^gesture(think-L, 0.58, 0.9, 1) 
+    ^start_timer(23.7)
+
+u: GESTURE7 (*)
+    ^gesture(look-L.UP, 0.58, 0.9, 1) 
+    ^start_timer(26.04)
+
+u: GESTURE8 (*)
+    ^gesture(nod-3, 0.68, 0.9, 1) 
+    ^start_timer(29)
